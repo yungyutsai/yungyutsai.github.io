@@ -1,0 +1,36 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Research Work
+
+------
+
+### Field of Interest
+
+* **Public Policy** – Education Policy, Social Policy, Health Policy, Labor Policy
+* **Public Administration** – Education Management, Public Finance
+* **Sociology** - Social Inequality, Social Stratification, Intergenerational Mobility
+
+------
+
+### Publication
+
+1. Yung-Yu Tsai (2018). [Which Fairness could Arm’s Length Principle Bring? The Evidence from Art Funding of MOC and NCAF.](papers/art_funding.pdf) *Journal of Youth & Public Governance, 1*.
+  
+------
+
+### Working Paper
+
+1. Yung-Yu Tsai (2019). [The Effect of Instructional Expenditure on College Graduates’ Earnings: Evidence from Taiwan’s Plan to Encourage Teaching Excellence in Universities.](papers/expenditure_earnings.pdf)
+
+2. Hsing-Wen Han, Kuang-Ta Lo, Yung-Yu Tsai, and Tzu-Ting Yang. (2019). [Do People Have Children When They Become Rich? Evidence from Lottery Winners in Taiwan.](papers/lottery_children.pdf)
+
+------
+
+### Presentation
+
+1. Yung-Yu Tsai (2018). [Do You Remember? Proxy Bias and Recall Bias in Social Mobility Studies: Evidence from TEPS and TEPS-B.](papers/proxy_bias.pdf) Paper presented in The 2018 Conference on Survey Research Methodology, Taipei: Center for Survey Research, Academia Sinica, Oct. 2018.
+2. Yung-Yu Tsai (2018). [Combining Government Procurement and Public-Private Partnerships: Case Study of Taipei WiFi Alliance.](papers/taipei_wifi.pdf) Paper presented in The 2018 International Conference of the Taiwan Association for Schools of Public Administration and Affairs, Taipei: TASPAA, Jun. 2018.
+3. Yung-Yu Tsai (2018). [Which Fairness could Arm’s Length Principle Bring? The Evidence from Art Funding of MOC and NCAF.](papers/art_funding.pdf) Paper presented in The Union Conference on Administration Management of Seven Universities, Taichung: Department of Public Management and Policy, Tunghai University, May. 2018.

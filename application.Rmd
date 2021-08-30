@@ -1,0 +1,45 @@
+---
+title: "Apply to PhD in Public Policy & Public Affairs"
+author: "Yung-Yu Tsai"
+date: "2020/3/15"
+output:
+  html_document:
+    df_print: paged
+    number_sections: yes
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+    code_folding: show
+  urlcolor: blue
+  linkcolor: blue
+  pdf_document:
+    toc: yes
+    number_sections: yes
+    keep_tex: yes
+---
+***  
+
+#Admission
+* University of Missouri, PhD in Public Affairs
+* Georgia State University, PhD in Public Policy
+* Lehigh University, Ph.D. in Business and Economics
+
+#Rejection
+* Indiana University Bloomington, PhD in Public Affairs
+* Duke University, PhD in Public Policy
+* Stanford University, PhD in Education Policy
+* New York University, PhD in Public Administration
+* University of North Carolina (Chapel Hill), PhD in Public Policy
+* Arizona State University, PhD in Public Administration and Policy
+* Cornell University, PhD in Policy Analysis and Management
+
+#Pending
+* Northwestern University, PhD in Human Development and Social Policy
+* University of Maryland Baltimore County (UMBC), PhD in Public Policy
+* Syracuse University, PhD in Public Administration
+
+
+
+***  
+

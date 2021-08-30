@@ -1,0 +1,24 @@
+name: "Yung-Yu Tsai"
+output_dir: "."
+navbar:
+  title: "Yung-Yu Tsai"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "Portfolio"
+      href: portfolio.html
+    - text: "Activity"
+      href: activity.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-facebook-square fa-lg
+      href: https://www.facebook.com/pennyof100
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/yungyu-tsai-a7a289176/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

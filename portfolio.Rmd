@@ -1,0 +1,98 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Portfolio
+
+------
+
+### R Projects
+
+<div class = "row">
+<div class= "col-md-4">
+<center>
+<a href = "https://yungyutsai.shinyapps.io/probability_distributions/" target="_blank">
+<img src="images/portfolio/probability.jpg" style="width:100%">
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+<a href = "https://yungyutsai.shinyapps.io/COVID-19/" target="_blank">
+<img src="images/portfolio/COVID19.jpg" style="width:100%">
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-4">
+<center>
+<a href = "https://yungyutsai.shinyapps.io/probability_distributions/" target="_blank">
+Probability Distribution Calculator
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+<a href = "https://yungyutsai.shinyapps.io/COVID-19/" target="_blank">
+COVID-19 Confirmed / Death Cases Trend
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+</div>
+</div>
+
+------
+
+### Presentation Slides
+
+<div class = "row">
+<div class= "col-md-4">
+<center>
+<a href = "files/proxy_bias.pdf" target="_blank">
+<img src="images/portfolio/proxy_bias.jpg" style="width:100%">
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+<a href = "files/taipei_wifi.pdf" target="_blank">
+<img src="images/portfolio/taipei_wifi.jpg" style="width:100%">
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+<a href = "files/pisa.pdf" target="_blank">
+<img src="images/portfolio/pisa.jpg" style="width:100%">
+</a>
+</center>
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-4">
+<center>
+<a href = "files/proxy_bias.pdf" target="_blank">
+Proxy Bias and Recall Bias in Social Mobility Study
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+<a href = "files/taipei_wifi.pdf" target="_blank">
+The Distribution of WiFi hotspot in Taiepi City
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+<a href = "files/pisa.pdf" target="_blank">
+Determinants for Extracurrium Science Learning Participation
+</a>
+</center>
+</div>
+</div>

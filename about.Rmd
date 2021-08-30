@@ -1,0 +1,59 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## About Me
+
+------
+
+### Education
+
+* MPA (Master in Public Administration), National Chengchi University (June. 2019)
+    + Master's thesis: 
+      The effect of instructional expenditure on college graduates' employment and earnings
+    + Advisors: [Dr. Pin-Yu Chu](https://pa.nccu.edu.tw/people/bio.php?PID=51562) and 
+                [Dr. Tzu-Ting Yang](https://causaldatalab.wordpress.com/)
+* B.A. Political Science, National Taiwan University (June. 2015)
+
+------
+
+### Research Experience
+
+* Research Assistant, Institute of Economics, Academia Sinica (Aug. 2019 – Present)
+    + Principal Investigator: [Dr. Tzu-Ting Yang](https://causaldatalab.wordpress.com/)
+
+* Research Assistant, National Chengchi University, Taiwan Studies Center (Jul. 2017 – Jul. 2019)
+    + Principal Investigator: [Dr. Hsien-Ming Lien](http://www3.nccu.edu.tw/~hmlien/)
+  
+------
+
+### Work Experience
+
+* Policy Analysis Assistant, Office of 
+  Legislator [Chiao-Hui Su](https://www.ly.gov.tw/EngPages/List.aspx?nodeid=12176), 
+  The Legislative Yuan (Feb. 2016 – Jun. 2017)
+* Assistant, Campaign Office of Legislator Candidate Chiao-Hui Su (Jul. 2015 – Jan. 2016)
+
+------
+
+### Teaching Experience
+
+* Teaching Assistant, Fundamental Statistics for Public Administration, National Chengchi University (2019 Spring)
+    + Instructor: [Dr. Pin-Yu Chu](https://pa.nccu.edu.tw/people/bio.php?PID=51562)
+* Teaching Assistant, Introduction to Statistics, National Chengchi University (2018 Fall)
+    + Instructor: [Dr. Hsiang-Kai Dong](https://pa.nccu.edu.tw/people/bio.php?PID=31332)
+* Club Advisor, Debate club, Wesley Girls High School (Feb. 2015 – Jul. 2015)
+* Club Advisor, Debate club, Taipei First Girls High School (Sep. 2013 – Aug. 2014)
+
+------
+
+### Leadership Experience
+
+* Deputy Chair, Election Committee of Student Association, National Taiwan University 
+  (Ju. 2014 – Feb. 2015)
+* Chief Executive, 
+  The 15th Jing-Ying International Debate Competition for Senior High School Students 
+  (Feb. 2014)
+* President, Debate club, National Taiwan University 
+  (Jul. 2013 – Feb. 2014)
