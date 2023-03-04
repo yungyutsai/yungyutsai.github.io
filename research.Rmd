@@ -3,34 +3,31 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Research Work
 
-------
+### Publications
 
-### Field of Interest
+* Tsai, Yung-Yu (2022). Does undue preference lead to unfairness? The impact of teacher favoritism on teacher treatment and student achievement. _Journal of Behavioral and Experimental Economics, 101_. 101941. [<a href = "https://doi.org/10.1016/j.socec.2022.101941" target="_blank">Journal Article</a>] [<a href = "papers/teacehr_favortism.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/teacher_favoritism" target="_blank">Data and Codes</a>]
 
-* **Public Policy** – Education Policy, Social Policy, Health Policy, Labor Policy
-* **Public Administration** – Education Management, Public Finance
-* **Sociology** - Social Inequality, Social Stratification, Intergenerational Mobility
+* Tsai, Yung-Yu & Yang, Tzu-Ting (2022). Measuring voluntary responses in healthcare utilization during the COVID-19 pandemic: Evidence from Taiwan. _PLoS ONE, 17_ (12). e0271810. [<a href = "https://doi.org/10.1371/journal.pone.0271810" target="_blank">Journal Article</a>] [<a href = "https://github.com/yungyutsai/Taiwan_COVID19_Healthcare_Utilization" target="_blank">Data and Codes</a>]
 
-------
-
-### Publication
-
-1. Yung-Yu Tsai (2018). [Which Fairness could Arm’s Length Principle Bring? The Evidence from Art Funding of MOC and NCAF.](papers/art_funding.pdf) *Journal of Youth & Public Governance, 1*.
+* Tsai, Yung-Yu (2018). Which fairness could arm's length principle bring? Evidence from art funding of MOC and NCAF. _Journal of Youth \& Public Governance, 1._ 1--24. [<a href = "https://drive.google.com/file/d/1EzRdrrql6QZP4a7Nfm0JBLwY3_PksYw8/view" target="_blank">Journal Article</a>] [<a href = "papers/art_funding.pdf" target="_blank">Accepted Manuscript</a>]
   
 ------
 
-### Working Paper
+### Working Papers
 
-1. Yung-Yu Tsai (2019). [The Effect of Instructional Expenditure on College Graduates’ Earnings: Evidence from Taiwan’s Plan to Encourage Teaching Excellence in Universities.](papers/expenditure_earnings.pdf)
+* Gurantz, Oded & Tsai, Yung-Yu. The impact of federal administrative burdens on college enrollment. _(Revisions Requested)_
 
-2. Hsing-Wen Han, Kuang-Ta Lo, Yung-Yu Tsai, and Tzu-Ting Yang. (2019). [Do People Have Children When They Become Rich? Evidence from Lottery Winners in Taiwan.](papers/lottery_children.pdf)
+* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The Effect of Financial Resources on Fertility: Evidence from Administrative Data on Lottery Winners. _(Under Review)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
 
 ------
 
-### Presentation
+### Works in Progress
 
-1. Yung-Yu Tsai (2018). [Do You Remember? Proxy Bias and Recall Bias in Social Mobility Studies: Evidence from TEPS and TEPS-B.](papers/proxy_bias.pdf) Paper presented in The 2018 Conference on Survey Research Methodology, Taipei: Center for Survey Research, Academia Sinica, Oct. 2018.
-2. Yung-Yu Tsai (2018). [Combining Government Procurement and Public-Private Partnerships: Case Study of Taipei WiFi Alliance.](papers/taipei_wifi.pdf) Paper presented in The 2018 International Conference of the Taiwan Association for Schools of Public Administration and Affairs, Taipei: TASPAA, Jun. 2018.
-3. Yung-Yu Tsai (2018). [Which Fairness could Arm’s Length Principle Bring? The Evidence from Art Funding of MOC and NCAF.](papers/art_funding.pdf) Paper presented in The Union Conference on Administration Management of Seven Universities, Taichung: Department of Public Management and Policy, Tunghai University, May. 2018.
+* Tsai, Yung-Yu. Non-profit colleges' responses to the net investment income tax---Evidence from the Tax Cut and Job Act.
+
+* Tsai, Yung-Yu & Fu, Kai-Jo. The impact of supervisor representativeness and colleague demographic similarity on public employees' work-related attitude.
+
+* Huang, Po-Chun, Tsai, Yung-Yu & Yang, Tzu-Ting. Effects of job displacement on earnings and mental health.
+
+* Pham, Trang & Tsai, Yung-Yu. The racial dynamics of faculty populations in the U.S. higher education institutions---the current status quo and outlook.

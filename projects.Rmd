@@ -1,0 +1,81 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Projects
+
+------
+
+### R Projects
+
+<div class = "row">
+<div class= "col-md-4">
+<center>
+<a href = "https://yungyutsai.shinyapps.io/probability_distributions/" target="_blank">
+<img src="images/projects/probability.jpg" style="width:100%">
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+
+</center>
+</div>
+<div class = "col-md-4">
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-4">
+<center>
+<a href = "https://yungyutsai.shinyapps.io/probability_distributions/" target="_blank">
+Probability Distribution Calculator
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+
+</center>
+</div>
+<div class = "col-md-4">
+</div>
+</div>
+
+------
+
+### Stata Projects
+
+
+<div class = "row">
+<div class= "col-md-4">
+<center>
+<a href = "https://github.com/yungyutsai/summarystat" target="_blank">
+<img src="images/projects/summarystat.png" style="width:100%">
+</a>
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+
+</center>
+</div>
+<div class = "col-md-4">
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-4">
+<center>
+<a href = "https://github.com/yungyutsai/summarystat" target="_blank">
+A Summary Statistics Program
+</a> _(Under Test)_
+</center>
+</div>
+<div class = "col-md-4">
+<center>
+
+</center>
+</div>
+<div class = "col-md-4">
+</div>
+</div>
