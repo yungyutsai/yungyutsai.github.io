@@ -1,10 +1,11 @@
 ---
+pagetitle: Yung-Yu Tsai
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-### Publications
+### Peer-reviewed Publications
 
 * Tsai, Yung-Yu (2022). Does undue preference lead to unfairness? The impact of teacher favoritism on teacher treatment and student achievement. _Journal of Behavioral and Experimental Economics, 101_. 101941. [<a href = "https://doi.org/10.1016/j.socec.2022.101941" target="_blank">Journal Article</a>] [<a href = "papers/teacehr_favortism.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/teacher_favoritism" target="_blank">Data and Codes</a>]
 
@@ -18,7 +19,7 @@
 
 * Gurantz, Oded & Tsai, Yung-Yu. The impact of federal administrative burdens on college enrollment. _(Revisions Requested)_
 
-* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The Effect of Financial Resources on Fertility: Evidence from Administrative Data on Lottery Winners. _(Under Review)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
+* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Under Review)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
 
 ------
 
@@ -30,4 +31,4 @@
 
 * Huang, Po-Chun, Tsai, Yung-Yu & Yang, Tzu-Ting. Effects of job displacement on earnings and mental health.
 
-* Pham, Trang & Tsai, Yung-Yu. The racial dynamics of faculty populations in the U.S. higher education institutions---the current status quo and outlook.
+* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping faculty diversity in U.S. higher education institutions---retrospect and prospect from 2001 to 2035.

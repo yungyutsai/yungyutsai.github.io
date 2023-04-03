@@ -15,7 +15,7 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-book fa-lg
-      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4498470
+      href: https://orcid.org/0000-0002-9718-9705
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/yungyu-tsai-a7a289176/
 output:
