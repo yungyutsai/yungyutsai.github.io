@@ -1,0 +1,46 @@
+---
+pagetitle: Yung-Yu Tsai
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+### Teaching Experience
+<br>
+
+#### University of Missouri (Columbia, MO)
+* Research Methods and Inquiry in Public Affairs I, 2023 Spring. _(Graduate, Online)_
+  - Graduate Teaching Assistant
+
+* Research Methods and Inquiry in Public Affairs II, 2023 Spring. _(Graduate, Online)_
+  - Graduate Teaching Assistant
+
+* American Government, 2021 Fall _(Undergraduate, Online)_
+  - Graduate Teaching Assistant
+
+#### National Chengchi University (Taipei, Taiwan)
+
+* Fundamental Statistics for Public Administration, 2019 Spring _(Undergraduate, In-person)_
+  - Teaching Assistant
+  - Outstanding Teaching Assistant Awards
+  
+* Introduction to Statistics, 2018 Fall _(Graduate, In-person)_
+  - Teaching Assistant
+
+------
+
+### Guest Lecture
+
+* Politics of education: How education affects political participation and national identity in Chinese countries _(March, 2023)_
+  - Course name: Chinese Politics and Foreign Policy (University of Missouri)
+
+* Application of administrative record data _(May, 2019)_
+  - Course name: Quantitative Research Method (National Chengchi University)
+  
+  
+------
+
+### Workshop Speaker
+
+* R-Ladies Taipei _(January, 2019)_
+  - Topic: Application of government open data with geographic information systems (GIS)
