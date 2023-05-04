@@ -2,6 +2,7 @@ name: "Yung-Yu Tsai"
 output_dir: "."
 navbar:
   title: "Yung-Yu Tsai"
+  type: inverse
   left:
     - text: "Home"
       href: index.html
@@ -20,5 +21,5 @@ navbar:
       href: https://www.linkedin.com/in/yungyu-tsai-a7a289176/
 output:
   html_document:
-    theme: paper
+    theme: cerulean
     css: 'styles.css'

@@ -3,16 +3,33 @@ pagetitle: Yung-Yu Tsai
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
-
+<style>
+  body{
+  font-size: 12pt;
+}
+</style>
 
 ### Peer-reviewed Publications
 
-* Tsai, Yung-Yu (2022). Does undue preference lead to unfairness? The impact of teacher favoritism on teacher treatment and student achievement. _Journal of Behavioral and Experimental Economics, 101_. 101941. [<a href = "https://doi.org/10.1016/j.socec.2022.101941" target="_blank">Journal Article</a>] [<a href = "papers/teacehr_favortism.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/teacher_favoritism" target="_blank">Data and Codes</a>]
+* Tsai, Yung-Yu (2022). Does undue preference lead to unfairness? The impact of teacher favoritism on teacher treatment and student achievement. _Journal of Behavioral and Experimental Economics, 101_. 101941. [<a href = "https://doi.org/10.1016/j.socec.2022.101941" target="_blank">Journal Article</a>] [<a href = "papers/teacehr_favortism.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/teacher_favoritism" target="_blank">Data and Codes</a>] 
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> This study investigates the impact of teacher favoritism (i.e., systematically favoring students of a specific gender, ethnicity, or high previous class ranking) on teacher treatment and student achievement. Based on the practice of random class grouping within schools, a school fixed effect model is used to estimate the causal effect of teacher favoritism. The results suggest that teacher favoritism toward students with a higher previous class rank increases the likelihood of these students consulting with their teacher on academic, emotional, and friendship issues. Also, female students are more likely to discuss friendships and emotional matters with pro-female teachers. However, the evidence of teacher favoritism's impact on student achievement is relatively weak. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
 
 * Tsai, Yung-Yu & Yang, Tzu-Ting (2022). Measuring voluntary responses in healthcare utilization during the COVID-19 pandemic: Evidence from Taiwan. _PLoS ONE, 17_ (12). e0271810. [<a href = "https://doi.org/10.1371/journal.pone.0271810" target="_blank">Journal Article</a>] [<a href = "https://github.com/yungyutsai/Taiwan_COVID19_Healthcare_Utilization" target="_blank">Data and Codes</a>]
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Healthcare has been one of the most affected sectors during the coronavirus disease 2019 (COVID-19) pandemic. The utilization of related services for non-COVID-19 diseases fell dramatically following the point at which the virus broke out; however, little is known about whether this observed decline in healthcare use was due to voluntary behaviors or enforced measures. This paper quantifies the spontaneous change in healthcare utilization during the pandemic. We utilize a county-by-week-level dataset from Taiwan’s National Health Insurance (NHI) record, covering the entire Taiwanese population, and a difference-in-differences design. Our results indicate that even if there were no human mobility restrictions or supply-side constraints, people voluntarily reduced their demand for healthcare, due to fears of contagion, or COVID-related precautionary behaviors. We find that the number of outpatient visits (inpatient admissions) decreased by 19% (10%) during the pandemic period (February to May 2020). Furthermore, the demand response of healthcare for Influenza-like illness (ILI) was much greater and more persistent than for non-ILI, thereby suggesting that the substantial decline in accessing healthcare was induced by positive public health externality of prevention measures for COVID-19. Finally, we find that the demand for healthcare services did not get back to the pre-pandemic baseline, even when there were no local coronavirus cases for 253 consecutive days (mid-April to December 2020) in Taiwan. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
 
 * Tsai, Yung-Yu (2018). Which fairness could arm's length principle bring? Evidence from art funding of MOC and NCAF. _Journal of Youth \& Public Governance, 1._ 1--24. [<a href = "https://drive.google.com/file/d/1EzRdrrql6QZP4a7Nfm0JBLwY3_PksYw8/view" target="_blank">Journal Article</a>] [<a href = "papers/art_funding.pdf" target="_blank">Accepted Manuscript</a>]
-  
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> The arm’s length principle implies that intermediary cultural organization performs better on art funding allocation than the government or politicians. This paper uses data from the art funding list from 2015 to 2017 in Taiwan to examine whether The National Culture and Arts Foundation (NCAF, an intermediary cultural organization) distributes funding fairer than The Ministry of Culture (MOC). There are three different concepts of fairness: equity, equality, and need (distributing funding to those who need it). The result of this paper shows MOC and NCAF have no significant difference in equity, but NCAF indeed performs better on equality and need than MOC, although the effect isn’t as strong as we thought. Based on these findings, this paper suggests that the arm’s length principle really works, and it’s necessary for MOC to collaborate with NCAF. However, it’s also important to improve the fairness of art funding allocation in the future. </font size></div>
+</details>
+
 ------
 
 ### Working Papers
@@ -20,14 +37,34 @@ pagetitle: Yung-Yu Tsai
 * Gurantz, Oded & Tsai, Yung-Yu. The impact of federal administrative burdens on college enrollment. _(Revisions Requested)_
 
 * Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Under Review)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> This paper utilizes wealth shocks from winning lottery prizes to examine the effect of financial resources on fertility. Using administrative data on Taiwanese lottery winners and a difference-in-differences design, we compare the trend in fertility between households receiving lottery prizes of more than 1 million NT\$ (33,000 US\$) with those winning less than 10,000 NT\$ (330 US\$). The results show that the receipt of a big lottery prize significantly increases fertility, and effects are driven by households with less financial resources. Moreover, big lottery wins mainly trigger childless households to have children and induce people to get married earlier. </font size></div>
+</details>
 
 ------
 
 ### Works in Progress
 
 * Tsai, Yung-Yu. Non-profit colleges' responses to the net investment income tax---Evidence from the Tax Cut and Job Act.
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> A select few non-profit colleges in the US have managed enormous endowments that annually generate considerable capital gains, which were historically exempted from taxation. In the 2017 Tax Cut and Job Act, the government imposed a new net investment income tax on large and wealthy non-profit colleges. The policy aims to improve tax equity and wealth distribution across higher education institutions. However, as the policy has a tax threshold based on student population, this paper finds that colleges manipulate student enrollment to avoid the tax. Furthermore, the response leads to decreased educational opportunities for students of color.  Besides, colleges subject to the tax respond to the tax cost by reducing their spending on on-campus auxiliary facilities. This paper finds that the fiscal responses of colleges further reduce the college enrollment of students of color and those eligible for federal loans. The result implies that the net investment income tax aiming to improve tax equity might unintended impede equity in access to higher education. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu. The impact of tracking on student achievement and achievement gap---Evidence from admission reform in Taiwan
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> This study examines the impact of a Taiwanese upper secondary admission reform, which reduces the level of tracking without abandoning the general/vocational dual-track system. I utilize a difference-in-differences framework, comparing the difference of high school (exposed to the reform) and middle school (non-exposed to the reform) students before and after the reform. The results suggest that the reform raises the within-school student heterogeneity by around half the gap between full tracking and non-tracking system. Furthermore, the de-tracking reform leads to a 0.148 standard deviation drop in average student performance. The de-tracking policy yields an evenly negative impact throughout the whole distribution, implying that the efficiency gained from the tracking does not at the cost of equity. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
 
 * Tsai, Yung-Yu & Fu, Kai-Jo. The impact of supervisor representativeness and colleague demographic similarity on public employees' work-related attitude.
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Racial composition and diversity management in public sectors has long been an important topic in public management literature. Past research has confirmed that supervisor representativeness can benefit government employees, yet little attention has been paid to the well-being of supervisors and the consequences that neglecting that well-being may cause. Utilizing the federal employee surveys and the Federal Government’s human resources data, we apply the multilevel modeling (MLM) approach to examine the impact of management racial representativeness and colleague racial demographic similarities on public employees’ job satisfaction and turnover intention. We find that the impact of management representativeness is exerted primarily through the perceived diversity climate. A higher proportion of same-race colleagues also leads to better work-related attitudes. Co-worker relationships and perceived diversity climate both mediate the impacts. However, we find that while a higher proportion of same-race subordinates improves the satisfaction of supervisors who are the dominant racial group in their work unit, it negatively affects the supervisors who are not the dominant racial group in their work unit. Studies need to focus not only on how the representation of supervisors benefits subordinates but also, and indeed more so, on supervisor well-being. Based on these findings, we make recommendations for diversity management strategies in the public sector. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
 
 * Huang, Po-Chun, Tsai, Yung-Yu & Yang, Tzu-Ting. Effects of job displacement on earnings and mental health.
 

@@ -3,6 +3,11 @@ pagetitle: Yung-Yu Tsai
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+<style>
+  body{
+  font-size: 12pt;
+}
+</style>
 
 ## Contact
 
@@ -14,6 +19,6 @@ pagetitle: Yung-Yu Tsai
 
 ------
 
-### Linkedin
+### Address
 
-* https://www.linkedin.com/in/yungyu-tsai-a7a289176/
+* E004 Locus Street Bldg., Columbia, MO. 65201

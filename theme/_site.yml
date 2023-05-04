@@ -1,0 +1,25 @@
+name: "Yung-Yu Tsai"
+output_dir: "."
+navbar:
+  title: "Yung-Yu Tsai"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: files/CV_YungYuTsai.pdf
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-book fa-lg
+      href: https://orcid.org/0000-0002-9718-9705
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/yungyu-tsai-a7a289176/
+output:
+  html_document:
+    theme: yeti
+    highlight: monochrome
+    css: 'styles.css'

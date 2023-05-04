@@ -1,0 +1,45 @@
+---
+pagetitle: Yung-Yu Tsai
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<style>
+  body{
+  font-size: 12pt;
+}
+</style>
+
+### Peer-reviewed Publications
+
+* Tsai, Yung-Yu (2022). Does undue preference lead to unfairness? The impact of teacher favoritism on teacher treatment and student achievement. _Journal of Behavioral and Experimental Economics, 101_. 101941. [<a href = "https://doi.org/10.1016/j.socec.2022.101941" target="_blank">Journal Article</a>] [<a href = "papers/teacehr_favortism.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/teacher_favoritism" target="_blank">Data and Codes</a>] 
+<details> <summary><font size=2>Abstract</font size></summary>
+> <font size=3> This study investigates the impact of teacher favoritism (i.e., systematically favoring students of a specific gender, ethnicity, or high previous class ranking) on teacher treatment and student achievement. Based on the practice of random class grouping within schools, a school fixed effect model is used to estimate the causal effect of teacher favoritism. The results suggest that teacher favoritism toward students with a higher previous class rank increases the likelihood of these students consulting with their teacher on academic, emotional, and friendship issues. Also, female students are more likely to discuss friendships and emotional matters with pro-female teachers. However, the evidence of teacher favoritism's impact on student achievement is relatively weak. </font size> 
+</details>
+
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu & Yang, Tzu-Ting (2022). Measuring voluntary responses in healthcare utilization during the COVID-19 pandemic: Evidence from Taiwan. _PLoS ONE, 17_ (12). e0271810. [<a href = "https://doi.org/10.1371/journal.pone.0271810" target="_blank">Journal Article</a>] [<a href = "https://github.com/yungyutsai/Taiwan_COVID19_Healthcare_Utilization" target="_blank">Data and Codes</a>]
+
+* Tsai, Yung-Yu (2018). Which fairness could arm's length principle bring? Evidence from art funding of MOC and NCAF. _Journal of Youth \& Public Governance, 1._ 1--24. [<a href = "https://drive.google.com/file/d/1EzRdrrql6QZP4a7Nfm0JBLwY3_PksYw8/view" target="_blank">Journal Article</a>] [<a href = "papers/art_funding.pdf" target="_blank">Accepted Manuscript</a>]
+  
+------
+
+### Working Papers
+
+* Gurantz, Oded & Tsai, Yung-Yu. The impact of federal administrative burdens on college enrollment. _(Revisions Requested)_
+
+* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Under Review)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
+
+------
+
+### Works in Progress
+
+* Tsai, Yung-Yu. Non-profit colleges' responses to the net investment income tax---Evidence from the Tax Cut and Job Act.
+
+* Tsai, Yung-Yu & Fu, Kai-Jo. The impact of supervisor representativeness and colleague demographic similarity on public employees' work-related attitude.
+
+* Huang, Po-Chun, Tsai, Yung-Yu & Yang, Tzu-Ting. Effects of job displacement on earnings and mental health.
+
+* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping faculty diversity in U.S. higher education institutions---retrospect and prospect from 2001 to 2035.
+
+* Tsai, Yung-Yu. The impact of tracking on student achievement and achievement gap---Evidence from admission reform in Taiwan
