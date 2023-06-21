@@ -1,0 +1,16 @@
+---
+pagetitle: Yung-Yu Tsai
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<style>
+  body{
+  font-size: 12pt;
+}
+</style>
+
+| | | | 
+--- | --- | --- | --- | ---
+<a href = "theme/bootstrap.html" target="_blank">bootstrap</a> | <a href = "theme/cerulean.html" target="_blank">cerulean</a> | <a href = "theme/cosmo.html" target="_blank">cosmo</a> | <a href = "theme/darkly.html" target="_blank">darkly</a> | <a href = "theme/flatly.html" target="_blank">flatly</a>
+<a href = "theme/journal.html" target="_blank">journal</a> | <a href = "theme/lumen.html" target="_blank">lumen</a> | <a href = "theme/paper.html" target="_blank">paper</a> | <a href = "theme/readable.html" target="_blank">readable</a> | <a href = "theme/sandstone.html" target="_blank">sandstone</a>
+<a href = "theme/simplex.html" target="_blank">simplex</a> | <a href = "theme/spacelab.html" target="_blank">spacelab</a> | <a href = "theme/united.html" target="_blank">united</a> | <a href = "theme/yeti.html" target="_blank">yeti</a> | 
