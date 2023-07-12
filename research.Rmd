@@ -34,12 +34,23 @@ pagetitle: Yung-Yu Tsai
 
 ### Working Papers
 
-* Gurantz, Oded & Tsai, Yung-Yu. The impact of federal administrative burdens on college enrollment. _(Revisions Requested)_
+* Gurantz, Oded & Tsai, Yung-Yu. The impact of federal administrative burdens on college enrollment. _(Resubmitted)_ [<a href = "https://www.edworkingpapers.com/index.php/ai23-800" target="_blank">Working Paper</a>]
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Government programs impose eligibility requirements to balance the goals of improving welfare while minimizing waste. We study the impact of eligibility monitoring in the context of Federal Application for Federal Student Aid (FAFSA) submissions, where students may be subject to "verification" requirements that require them to confirm the accuracy of the data. Using a matching on observables design we do not find that students flagged for verification are less likely to enroll in college, which contrasts prior research. Verification reduces grant aid received but average changes are small, raising questions about the benefits of this administrative process. </font size></div>
+</details>
 
-* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Under Review)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Submitted)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This paper utilizes wealth shocks from winning lottery prizes to examine the effect of financial resources on fertility. Using administrative data on Taiwanese lottery winners and a difference-in-differences design, we compare the trend in fertility between households receiving lottery prizes of more than 1 million NT\$ (33,000 US\$) with those winning less than 10,000 NT\$ (330 US\$). The results show that the receipt of a big lottery prize significantly increases fertility, and effects are driven by households with less financial resources. Moreover, big lottery wins mainly trigger childless households to have children and induce people to get married earlier. </font size></div>
 </details>
+
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu, Huang, Po-Chun & Yang, Tzu-Ting. Long-term effects of job displacement on earnings and mental health: A research note using population-based administrative data. _(Submitted)_
+
+* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping faculty diversity in U.S. higher education institutions---retrospect and prospect from 2001 to 2035. _(Submitted)_
 
 ------
 
@@ -65,7 +76,3 @@ pagetitle: Yung-Yu Tsai
 </details>
 
 <div style="line-height:50%;"><br></div>
-
-* Huang, Po-Chun, Tsai, Yung-Yu & Yang, Tzu-Ting. Effects of job displacement on earnings and mental health.
-
-* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping faculty diversity in U.S. higher education institutions---retrospect and prospect from 2001 to 2035.
