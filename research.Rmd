@@ -11,6 +11,13 @@ pagetitle: Yung-Yu Tsai
 
 ### Peer-reviewed Publications
 
+* Gurantz, Oded & Tsai, Yung-Yu (forthcoming). The impact of federal administrative burdens on college enrollment. _Economics of Education Review, forthcoming_. [<a href = "https://www.edworkingpapers.com/index.php/ai23-800" target="_blank">Accepted Manuscript</a>]
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Government programs impose eligibility requirements to balance the goals of improving welfare while minimizing waste. We study the impact of eligibility monitoring in the context of Federal Application for Federal Student Aid (FAFSA) submissions, where students may be subject to "verification" requirements that require them to confirm the accuracy of the data. Using a matching on observables design we do not find that students flagged for verification are less likely to enroll in college, which contrasts prior research. Verification reduces grant aid received but average changes are small, raising questions about the benefits of this administrative process. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
 * Tsai, Yung-Yu (2022). Does undue preference lead to unfairness? The impact of teacher favoritism on teacher treatment and student achievement. _Journal of Behavioral and Experimental Economics, 101_. 101941. [<a href = "https://doi.org/10.1016/j.socec.2022.101941" target="_blank">Journal Article</a>] [<a href = "papers/teacehr_favortism.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/teacher_favoritism" target="_blank">Data and Codes</a>] 
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This study investigates the impact of teacher favoritism (i.e., systematically favoring students of a specific gender, ethnicity, or high previous class ranking) on teacher treatment and student achievement. Based on the practice of random class grouping within schools, a school fixed effect model is used to estimate the causal effect of teacher favoritism. The results suggest that teacher favoritism toward students with a higher previous class rank increases the likelihood of these students consulting with their teacher on academic, emotional, and friendship issues. Also, female students are more likely to discuss friendships and emotional matters with pro-female teachers. However, the evidence of teacher favoritism's impact on student achievement is relatively weak. </font size></div>
@@ -33,13 +40,6 @@ pagetitle: Yung-Yu Tsai
 ------
 
 ### Working Papers
-
-* Gurantz, Oded & Tsai, Yung-Yu. The impact of federal administrative burdens on college enrollment. _(Resubmitted)_ [<a href = "https://www.edworkingpapers.com/index.php/ai23-800" target="_blank">Working Paper</a>]
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> Government programs impose eligibility requirements to balance the goals of improving welfare while minimizing waste. We study the impact of eligibility monitoring in the context of Federal Application for Federal Student Aid (FAFSA) submissions, where students may be subject to "verification" requirements that require them to confirm the accuracy of the data. Using a matching on observables design we do not find that students flagged for verification are less likely to enroll in college, which contrasts prior research. Verification reduces grant aid received but average changes are small, raising questions about the benefits of this administrative process. </font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
 
 * Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping faculty diversity in US higher education institutions---retrospect and prospect from 2001 to 2035. _(Submitted)_
 <details> <summary><font size=2>Abstract</font size></summary>
