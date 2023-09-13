@@ -11,7 +11,7 @@ pagetitle: Yung-Yu Tsai
 
 ### Peer-reviewed Publications
 
-* Gurantz, Oded & Tsai, Yung-Yu (forthcoming). The impact of federal administrative burdens on college enrollment. _Economics of Education Review, forthcoming_. [<a href = "https://www.edworkingpapers.com/index.php/ai23-800" target="_blank">Accepted Manuscript</a>]
+* Gurantz, Oded & Tsai, Yung-Yu (2023). The impact of federal administrative burdens on college enrollment. _Economics of Education Review, 97_. 102461. [<a href = "https://doi.org/10.1016/j.econedurev.2023.102461" target="_blank">Journal Article</a>] [<a href = "https://www.edworkingpapers.com/index.php/ai23-800" target="_blank">Accepted Manuscript</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Government programs impose eligibility requirements to balance the goals of improving welfare while minimizing waste. We study the impact of eligibility monitoring in the context of Federal Application for Federal Student Aid (FAFSA) submissions, where students may be subject to "verification" requirements that require them to confirm the accuracy of the data. Using a matching on observables design we do not find that students flagged for verification are less likely to enroll in college, which contrasts prior research. Verification reduces grant aid received but average changes are small, raising questions about the benefits of this administrative process. </font size></div>
 </details>
