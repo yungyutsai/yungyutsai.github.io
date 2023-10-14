@@ -41,7 +41,7 @@ pagetitle: Yung-Yu Tsai
 
 ### Working Papers
 
-* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping faculty diversity in US higher education institutions---retrospect and prospect from 2001 to 2035. _(Under Review)_
+* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping faculty diversity in US higher education institutions---retrospect and prospect from 2001 to 2035. _(Revision Request)_
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> US higher education is witnessing rapid changes in the racial demographics of student and faculty populations. While racial representation on American campuses is increasing, faculty diversity lags behind student diversity regarding race and ethnicity. Using data from the Integrated Postsecondary Education Data System (IPEDS) from 2001 to 2021, this study captures the racial dynamics of student and faculty populations in different higher education institution types. The paper, then, applies the concept of stock-and-flow to study the contributions of diversity inflow (faculty hiring) and diversity outflow (faculty turnover) on faculty diversity stock. Five simulations are constructed to predict faculty diversity changes and future trends sector-wide. Our policy recommendation calls for balanced efforts in both the retention and hiring of faculty to diversify the faculty workforce. </font size></div>
 </details>
@@ -71,6 +71,13 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
+* Tsai, Yung-Yu. The impact of property reassessment on housing values---Decompose the capitalization and anchoring effects.
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> A regular property reassessment, aiming to align assessed values with fair market prices, is an important tool for ensuring tax equity. However, the reassessment itself might unintentionally affect the housing market. This paper examines the impact of property reassessment on housing prices and discusses two mechanisms with opposite predicted directions: the capitalization effect (reassessment leads to drops in housing prices) and the anchoring effect (reassessment causes increases in housing prices). The paper utilizes county-wide reassessments over time in the state of Pennsylvania and employs a staggered difference-in-differences (DID) design to examine the causal effect of property reassessment. Additionally, the study uses both between- and within-county variations and combines DID with a two-stage least squares (2SLS) approach to decompose the two channels. The results suggest that the anchoring effect (positive) outweighs the capitalization effect (negative). On average, property reassessment increases housing values in counties. Furthermore, regions that were most underestimated in the pre-reform period experienced the most potent effect on boosting of housing values. The findings highlight that while property reassessment improves tax progressivity, it rewards wealthy individuals with more capital gains, which contradicts the goal of wealth equality. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
 * Tsai, Yung-Yu. The impact of tracking on student achievement and achievement gap---Evidence from admission reform in Taiwan
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This study examines the impact of a Taiwanese upper secondary admission reform, which reduces the level of tracking without abandoning the general/vocational dual-track system. I utilize a difference-in-differences framework, comparing the difference of high school (exposed to the reform) and middle school (non-exposed to the reform) students before and after the reform. The results suggest that the reform raises the within-school student heterogeneity by around half the gap between full tracking and non-tracking system. Furthermore, the de-tracking reform leads to a 0.148 standard deviation drop in average student performance. The de-tracking policy yields an evenly negative impact throughout the whole distribution, implying that the efficiency gained from the tracking does not at the cost of equity. </font size></div>
@@ -84,11 +91,3 @@ pagetitle: Yung-Yu Tsai
 </details>
 
 <div style="line-height:100%;"><br></div>
-
-
-* Tsai, Yung-Yu. The impact of property reassessment on housing values---Decompose the capitalization and anchoring effects.
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> A regular property reassessment, aiming to align assessed values with fair market prices, is an important tool for ensuring tax equity. However, the reassessment itself might unintentionally affect the housing market. This paper examines the impact of property reassessment on housing prices and discusses two mechanisms with opposite predicted directions: the capitalization effect (reassessment leads to drops in housing prices) and the anchoring effect (reassessment causes increases in housing prices). The paper utilizes county-wide reassessments over time in the state of Pennsylvania and employs a staggered difference-in-differences (DID) design to examine the causal effect of property reassessment. Additionally, the study uses both between- and within-county variations and combines DID with a two-stage least squares (2SLS) approach to decompose the two channels. The results suggest that the anchoring effect (positive) outweighs the capitalization effect (negative). On average, property reassessment increases housing values in counties. Furthermore, regions that were most underestimated in the pre-reform period experienced the most potent effect on boosting of housing values. The findings highlight that while property reassessment improves tax progressivity, it rewards wealthy individuals with more capital gains, which contradicts the goal of wealth equality. </font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
