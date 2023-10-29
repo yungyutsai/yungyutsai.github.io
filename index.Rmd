@@ -9,7 +9,7 @@ pagetitle: Yung-Yu Tsai
 }
 </style>
 
-<img src="images/yungyutsai.png" style="width:30%; border:0px solid; margin-right: 20px; margin-top: 20px" align="left">
+<img src="images/yungyutsai.png" style="width:33%; border:0px solid; margin-right: 20px; margin-top: 10px" align="left">
 <!--
 <iframe width="560" height="315" style="margin-right: 20px" align="left" frameborder="0"
 src="https://www.youtube.com/embed/-26g5lJaFhE">
@@ -18,7 +18,7 @@ src="https://www.youtube.com/embed/-26g5lJaFhE">
 
 I am a doctoral candidate at the University of Missouri <a href = "https://truman.missouri.edu" target="_blank">Harry S Truman School of Government and Public Affairs</a>. 
 
-My research interests lie in the fields of public finance and social equity, with a particular focus on the policy areas of education and taxation. My research aims to comprehend the impact of government spending—whether through direct funding or indirect tax benefits—on equitable access to resources and disparities in various outcomes. Some of my recent works focus on the impact of taxing elite colleges on colleges' spending and associated student outcomes, the influence of on-campus residence on student persistence and long-term academic and labor market results, and the effects of reassessing property to market values on housing prices and wealth distribution.
+My research interests lie in the intersection of public finance and social equity, with a particular focus on the policy areas of education and taxation. My research aims to comprehend the impact of government spending or taxation on equitable access to resources and disparities in education and socioeconomic outcomes. I apply rigorous quantitative analysis tools and causal inference methods to evaluate policy consequences. Some of my recent works focus on the impact of taxing elite colleges on colleges' spending and associated student outcomes, the influence of on-campus residence on student persistence and long-term academic and labor market results, and the effects of reassessing property to market values on housing prices and wealth distribution.
 
 I obtained my MPA (Master in Public Administration) degree from National Chengchi University (Taiwan) in 2019 and a Bachelor of Arts in Political Science from National Taiwan University in 2015. Prior to starting my graduate degree, I worked in the Congress of Taiwan.
 

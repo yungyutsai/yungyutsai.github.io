@@ -49,18 +49,23 @@ pagetitle: Yung-Yu Tsai
 
 ### Guest Lecture
 
-* Politics of education: How education affects political participation and national identity in Chinese countries _(March, 2023)_
-  - Course name: Chinese Politics and Foreign Policy (University of Missouri)
+* Chinese Politics and Foreign Policy (University of Missouri) _(March, 2023)_
+  - Topic: Politics of education: How education affects political participation and national identity in Chinese countries
 
 <div style="line-height:50%;"><br></div>
 
-* Application of administrative record data _(May, 2019)_
-  - Course name: Quantitative Research Method (National Chengchi University)
+* Quantitative Research Method (National Chengchi University) _(May, 2019)_
+  - Topic: Application of administrative record data
   
   
 ------
 
 ### Workshop Speaker
+
+* TSGPA Method Workshop (University of Missouri) _(October, 2023)_
+  - Topic: Navigating Errors in Stata
+
+ <div style="line-height:50%;"><br></div>
 
 * TSGPA Women in Econometrics Group (University of Missouri) _(April, 2022)_
   - Topic: Stagger Difference-in-Differences
