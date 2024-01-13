@@ -9,7 +9,18 @@ pagetitle: Yung-Yu Tsai
 }
 </style>
 
-### Teaching Experience
+
+### Teaching Experience (Instructor of Record)
+<div style="line-height:50%;"><br></div>
+
+#### _University of Missouri (Columbia, MO)_
+
+* State Government, 2024 Spring _(Undergraduate, Online)_
+  - Graduate Instructor
+
+------
+
+### Teaching Experience (TA)
 <div style="line-height:50%;"><br></div>
 
 #### _University of Missouri (Columbia, MO)_
