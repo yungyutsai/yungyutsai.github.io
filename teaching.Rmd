@@ -10,76 +10,68 @@ pagetitle: Yung-Yu Tsai
 </style>
 
 
-### Teaching Experience (Instructor of Record)
+### Instructor of Record
 <div style="line-height:50%;"><br></div>
 
-#### _University of Missouri (Columbia, MO)_
+#### _University of Missouri_
 
-* State Government, 2024 Spring _(Undergraduate, Online)_
-  - Graduate Instructor
-
-------
-
-### Teaching Experience (Teaching Assistant)
-<div style="line-height:50%;"><br></div>
-
-#### _University of Missouri (Columbia, MO)_
-
-* State Government, 2023 Fall _(Undergraduate, In-person)_
-  - Graduate Teaching Assistant
-  
-<div style="line-height:50%;"><br></div>
-
-* Research Methods and Inquiry in Public Affairs I, 2023 Spring. _(Graduate, Online)_
-  - Graduate Teaching Assistant
-
-<div style="line-height:50%;"><br></div>
-
-* Research Methods and Inquiry in Public Affairs II, 2023 Spring. _(Graduate, Online)_
-  - Graduate Teaching Assistant
-  
-<div style="line-height:50%;"><br></div>
-
-* American Government, 2021 Fall _(Undergraduate, Online)_
-  - Graduate Teaching Assistant
-
-<div style="line-height:100%;"><br></div>
-
-#### _National Chengchi University (Taipei, Taiwan)_
-
-* Fundamental Statistics for Public Administration, 2019 Spring _(Undergraduate, In-person)_
-  - Teaching Assistant
-  - Outstanding Teaching Assistant Award
-
-<div style="line-height:50%;"><br></div>
-  
-* Introduction to Statistics, 2018 Fall _(Graduate, In-person)_
-  - Teaching Assistant
+* State Government, Spring 2024 _(Undergraduate, Online)_
 
 ------
 
 ### Guest Lecture
 
-* Introduction To Public And Nonprofit Management (University of Missouri) _(November, 2023)_
+#### _University of Missouri_
+
+* Introduction To Public And Nonprofit Management, Fall 2023 _(Graduate, In-person)_
   - Topic: Civil service system
 
 <div style="line-height:50%;"><br></div>
 
-* Chinese Politics and Foreign Policy (University of Missouri) _(March, 2023)_
+* Chinese Politics and Foreign Policy, Spring 2023 _(Undergraduate, In-person)_
   - Topic: Politics of education: How education affects political participation and national identity in Chinese countries
+
+<div style="line-height:100%;"><br></div>
+
+#### _National Chengchi University (Taiwan)_
+
+* Quantitative Research Method, Spring 2019 _(Graduate, In-person)_
+  - Topic: Application of administrative record data
+  
+------
+
+### Teaching Assistant
+<div style="line-height:50%;"><br></div>
+
+#### _University of Missouri_
+
+* State Government, Fall 2023 _(Undergraduate, In-person)_
 
 <div style="line-height:50%;"><br></div>
 
-* Quantitative Research Method (National Chengchi University) _(May, 2019)_
-  - Topic: Application of administrative record data
+* Research Methods and Inquiry in Public Affairs I & II, Spring 2023 _(Graduate, Online)_
+
+<div style="line-height:50%;"><br></div>
+
+* American Government, Fall 2021 _(Undergraduate, Online)_
+
+<div style="line-height:100%;"><br></div>
+
+#### _National Chengchi University (Taiwan)_
+
+* Fundamental Statistics for Public Administration, Spring 2019 _(Undergraduate, In-person)_
+  - Outstanding Teaching Assistant Award
+
+<div style="line-height:50%;"><br></div>
   
-  
+* Introduction to Statistics, Fall 2018 _(Graduate, In-person)_
+
 ------
 
 ### Workshop Speaker
 
 * TSGPA Method Workshop (University of Missouri) _(October, 2023)_
-  - Topic: Navigating Errors in Stata
+  - Topic: Navigating Errors in Stata [<a href = "https://github.com/yungyutsai/Stata_error" target="_blank">Material</a>]
 
  <div style="line-height:50%;"><br></div>
 
