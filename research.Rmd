@@ -41,33 +41,33 @@ pagetitle: Yung-Yu Tsai
 
 ### Working Papers
 
-* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping diversity and representation in U.S. higher education institutions: A retrospective and prospective analysis from 2001 to 2035. _(Resubmit)_
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> U.S. higher education institutions are hiring more minoritized faculty into their teaching workforce to satisfy the demand of an increasingly diverse racial and ethnic student population. However, it is not always clear whether specific hiring policies and plans are intended to address the matter of diversity or representation—two similar but qualitatively different concepts. The policy choices that institutions make result in different implementation approaches and long-term outcomes. Using data from the Integrated Postsecondary Education Data System (IPEDS) from 2001 to 2021, this study measures and compares the changes in faculty diversity and student–faculty representation in U.S. higher education institutions over the past two decades. It then develops several simulated scenarios to project the future racial and ethnic landscape of American campuses, depending on the different policy choices that institutions make through their hiring and retention policies. Our recommendation calls for balanced efforts in the retention and hiring of minoritized and underrepresented faculty that are adapted to the individual circumstances of institutions. </font size></div>
-</details>
 
-
-<div style="line-height:50%;"><br></div>
-
-* Tsai, Yung-Yu, Huang, Po-Chun & Yang, Tzu-Ting. Long-term effects of job displacement on earnings and mental health: Evidence from population-wide administrative data. _(Resubmit)_
+* Tsai, Yung-Yu, Huang, Po-Chun & Yang, Tzu-Ting. Long-term effects of job displacement on earnings and mental health: Evidence from population-wide administrative data. _(Resubmitted to Economics Letters)_
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Utilizing administrative data encompassing the entire population of Taiwan, this paper investigates the long-term effects of job displacement on earnings and mental health. Focusing on job loss resulting from mass layoffs, our estimates suggest displaced workers experienced a 67% earning loss in the year following a layoff. Even after ten years, earnings do not fully recover. Displaced workers also experience long-term deterioration in mental health, particularly related to stress, with a 16% increase in cumulative outpatient visits for mental health issues and a 57% increase in cumulative medical costs for mental illness in the decade post-displacement. The negative impact on mental health is more pronounced among workers with lower earnings, men, and older individuals. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Under Review)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
+* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Revision Request from Journal of Labor Economics)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This paper utilizes wealth shocks from winning lottery prizes to examine the causal effect of financial resources on fertility. We employ extensive panels of administrative data encompassing over 0.4 million lottery winners in Taiwan and implement a triple-differences design. Our analyses reveal that a substantial lottery win can significantly increase fertility, the implied wealth elasticity of which is around 0.06. Moreover, the primary channel through which fertility increases is by prompting first births among previously childless individuals. Finally, our analysis reveals that approximately 25\% of the total fertility effect stems from increased marriage rates following a lottery win. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
+* Pham, Trang & Tsai, Yung-Yu. The roles of faculty hiring and retention in shaping diversity and representation in U.S. higher education institutions: A retrospective and prospective analysis from 2001 to 2035. _(Revision Request from Research In Higher Education)_
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> U.S. higher education institutions are hiring more minoritized faculty into their teaching workforce to satisfy the demand of an increasingly diverse racial and ethnic student population. However, it is not always clear whether specific hiring policies and plans are intended to address the matter of diversity or representation—two similar but qualitatively different concepts. The policy choices that institutions make result in different implementation approaches and long-term outcomes. Using data from the Integrated Postsecondary Education Data System (IPEDS) from 2001 to 2021, this study measures and compares the changes in faculty diversity and student–faculty representation in U.S. higher education institutions over the past two decades. It then develops several simulated scenarios to project the future racial and ethnic landscape of American campuses, depending on the different policy choices that institutions make through their hiring and retention policies. Our recommendation calls for balanced efforts in the retention and hiring of minoritized and underrepresented faculty that are adapted to the individual circumstances of institutions. </font size></div>
 </details>
 
 ------
 
 ### Works in Progress
 
-* Tsai, Yung-Yu. Non-profit colleges' responses to the net investment income tax---Evidence from the Tax Cut and Job Act.
+* Tsai, Yung-Yu. Non-profit colleges' responses to the net investment income tax---Evidence from the Tax Cuts and Jobs Act.
 <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> The 2017 Tax Cut and Job Act introduced a net investment income tax targeting large and wealthy non-profit colleges with the goal of enhancing tax equity and wealth distribution within higher education institutions. However, this paper reveals an unintended consequence of the policy—colleges strategically increasing student enrollment to circumvent the tax threshold based on population. While this policy loophole results in a government revenue loss, it prompts colleges to provide more education opportunities. Conversely, colleges subject to the tax respond by elevating tuition levels to offset the financial burden, disproportionately affecting the enrollment of historically underrepresented racial groups. This fiscal response suggests that taxation designed to improve tax equity may inadvertently hinder equity in access to higher education. The findings prompt a reevaluation of the policy’s impact and advocate for potential adjustments to foster both taxation and educational equity. </font size></div>
+> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobss Act introduced a net investment income tax targeting large and wealthy non-profit colleges with the goal of enhancing tax equity and wealth distribution within higher education institutions. However, this paper reveals an unintended consequence of the policy—colleges strategically increasing student enrollment to circumvent the tax threshold based on population. While this policy loophole results in a government revenue loss, it prompts colleges to provide more education opportunities. Conversely, colleges subject to the tax respond by elevating tuition levels to offset the financial burden, disproportionately affecting the enrollment of historically underrepresented racial groups. This fiscal response suggests that taxation designed to improve tax equity may inadvertently hinder equity in access to higher education. The findings prompt a reevaluation of the policy’s impact and advocate for potential adjustments to foster both taxation and educational equity. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
