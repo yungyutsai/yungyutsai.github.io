@@ -15,13 +15,18 @@ pagetitle: Yung-Yu Tsai
 
 #### _University of Missouri_
 
-* State Government, Spring 2024 _(Undergraduate, Online)_
+* State Government, Spring 2024 _(Undergraduate, Online Asynchronous)_
 
 ------
 
 ### Guest Lecture
 
 #### _University of Missouri_
+
+* Research Methods and Inquiry in Public Affairs II, Spring 2024 _(Graduate; Online Asynchronous)_
+  - Topic: Introduction to statistical graphs
+
+<div style="line-height:50%;"><br></div>
 
 * Introduction To Public And Nonprofit Management, Fall 2023 _(Graduate, In-person)_
   - Topic: Civil service system
@@ -38,22 +43,16 @@ pagetitle: Yung-Yu Tsai
 * Quantitative Research Method, Spring 2019 _(Graduate, In-person)_
   - Topic: Application of administrative record data
   
+ 
 ------
 
-### Teaching Assistant
+### Lab Instructor
 <div style="line-height:50%;"><br></div>
+  
 
 #### _University of Missouri_
 
-* State Government, Fall 2023 _(Undergraduate, In-person)_
-
-<div style="line-height:50%;"><br></div>
-
-* Research Methods and Inquiry in Public Affairs I & II, Spring 2023 _(Graduate, Online)_
-
-<div style="line-height:50%;"><br></div>
-
-* American Government, Fall 2021 _(Undergraduate, Online)_
+* State Government, Fall 2023 _(Undergraduate, In-person)_  
 
 <div style="line-height:100%;"><br></div>
 
@@ -65,6 +64,19 @@ pagetitle: Yung-Yu Tsai
 <div style="line-height:50%;"><br></div>
   
 * Introduction to Statistics, Fall 2018 _(Graduate, In-person)_
+
+------
+
+### Teaching Assistant
+<div style="line-height:50%;"><br></div>
+
+#### _University of Missouri_
+
+* Research Methods and Inquiry in Public Affairs I & II, Spring 2023 _(Graduate, Online Asynchronous)_
+
+<div style="line-height:50%;"><br></div>
+
+* American Government, Fall 2021 _(Undergraduate, Online Asynchronous)_
 
 ------
 
