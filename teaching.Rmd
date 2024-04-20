@@ -23,7 +23,7 @@ pagetitle: Yung-Yu Tsai
 
 #### _University of Missouri_
 
-* Research Methods and Inquiry in Public Affairs II, Spring 2024 _(Graduate; Online Asynchronous)_
+* Research Methods and Inquiry in Public Affairs, Spring 2024 _(Graduate; Online Asynchronous)_
   - Topic: Introduction to statistical graphs
 
 <div style="line-height:50%;"><br></div>
@@ -72,7 +72,7 @@ pagetitle: Yung-Yu Tsai
 
 #### _University of Missouri_
 
-* Research Methods and Inquiry in Public Affairs I & II, Spring 2023 _(Graduate, Online Asynchronous)_
+* Research Methods and Inquiry in Public Affairs, Spring 2023 _(Graduate, Online Asynchronous)_
 
 <div style="line-height:50%;"><br></div>
 
@@ -88,7 +88,7 @@ pagetitle: Yung-Yu Tsai
  <div style="line-height:50%;"><br></div>
 
 * TSGPA Women in Econometrics Group (University of Missouri) _(April, 2022)_
-  - Topic: Stagger Difference-in-Differences
+  - Topic: Difference-in-Differences with Staggered Treatments
  
  <div style="line-height:50%;"><br></div>
 

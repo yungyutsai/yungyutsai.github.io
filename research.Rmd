@@ -11,7 +11,7 @@ pagetitle: Yung-Yu Tsai
 
 ### Job Market Paper
 
-* Tsai, Yung-Yu. Nonprofits' tax avoidance and shifting behaviors---Insights from the net investment income tax on nonprofit colleges _(Submitted)_ [<a href = "papers/endowment_tax.pdf" target="_blank">Working Paper</a>]
+* Tsai, Yung-Yu. Nonprofits' tax avoidance and shifting behaviors---Insights from the net investment income tax on nonprofit colleges _(Under Review)_ [<a href = "papers/endowment_tax.pdf" target="_blank">Working Paper</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The nonprofit sector has historically enjoyed tax exemptions for its role in providing public goods. However, scholars challenge this justification, noting that nonprofits do not always utilize tax benefits to enhance their services. This paper examines whether taxing nonprofits could benefit society more than granting exemptions by evaluating their responses to taxation. Focusing on the net investment income tax on nonprofit colleges, empirical findings reveal that taxed colleges shift the burden to students by raising tuition. This response, while not altering the overall service level, redistributes educational opportunities from historically underserved groups to international students who can afford higher tuition. Conversely, colleges with the niche to avoid the tax strategically increase student enrollment to circumvent the tax threshold related to student size. These findings highlight the potential of policy design to guide nonprofits’ responses to taxation in ways that benefit society. </font size></div>
 </details>
@@ -21,7 +21,7 @@ pagetitle: Yung-Yu Tsai
 
 ### Peer-reviewed Publications
 
-* Tsai, Yung-Yu, Huang, Po-Chun & Yang, Tzu-Ting (2024). Long-term effects of job displacement on earnings and mental health: Evidence from population-wide administrative data. _Economics Letters, Forthcoming_
+* Tsai, Yung-Yu, Huang, Po-Chun & Yang, Tzu-Ting (2024). Long-term effects of job displacement on earnings and mental health: Evidence from population-wide administrative data. _Economics Letters, Forthcoming_. 111688. [<a href = "https://doi.org/10.1016/j.econlet.2024.111688" target="_blank">Journal Article</a>] [<a href = "papers/job_loss_health.pdf" target="_blank">Accepted Manuscript</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Utilizing administrative data encompassing the entire population of Taiwan, this paper investigates the long-term effects of job displacement on earnings and mental health. Focusing on job loss resulting from mass layoffs and plant closures, our estimates suggest displaced workers experienced a 67--68% earning loss in the year following a layoff. Even after ten years, earnings do not fully recover. Displaced workers also experience long-term deterioration in mental health, particularly related to stress, with a 15--16% increase in cumulative outpatient visits for mental health issues and a 57--62% increase in cumulative medical costs for mental illness in the decade post-displacement. The negative impact on mental health is more pronounced among workers with lower earnings, men, and older individuals. </font size></div>
 </details>
@@ -72,7 +72,7 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu. Nonprofits' tax avoidance and shifting behaviors---Insights from the net investment income tax on nonprofit colleges _(Submitted)_ [<a href = "papers/endowment_tax.pdf" target="_blank">Working Paper</a>]
+* Tsai, Yung-Yu. Nonprofits' tax avoidance and shifting behaviors---Insights from the net investment income tax on nonprofit colleges _(Under Review)_ [<a href = "papers/endowment_tax.pdf" target="_blank">Working Paper</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The nonprofit sector has historically enjoyed tax exemptions for its role in providing public goods. However, scholars challenge this justification, noting that nonprofits do not always utilize tax benefits to enhance their services. This paper examines whether taxing nonprofits could benefit society more than granting exemptions by evaluating their responses to taxation. Focusing on the net investment income tax on nonprofit colleges, empirical findings reveal that taxed colleges shift the burden to students by raising tuition. This response, while not altering the overall service level, redistributes educational opportunities from historically underserved groups to international students who can afford higher tuition. Conversely, colleges with the niche to avoid the tax strategically increase student enrollment to circumvent the tax threshold related to student size. These findings highlight the potential of policy design to guide nonprofits’ responses to taxation in ways that benefit society. </font size></div>
 </details>
@@ -81,14 +81,14 @@ pagetitle: Yung-Yu Tsai
 
 ### Works in Progress
 
-* Tsai, Yung-Yu. The impact of property reassessment on housing values---Decomposing the capitalization and anchoring effects.
+* Tsai, Yung-Yu. The impact of property reassessment on housing prices---Trade-offs between tax fairness and housing equity.
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Property reassessments aim to align property's assessed values with market prices, serving as an essential tool to ensure tax fairness. However, reassessments can unintentionally impact housing values and, therefore, affect wealth distribution. Based on data from 19 Pennsylvania counties, this study examines property reassessment's impact on housing values. The paper explores two contrasting theories: the capitalization effect, which predicts reduced housing values in wealthy regions and increased prices in less developed areas, and the anchoring effect, anticipating more pronounced price increases in affluent regions and wider disparities in housing prices. Using a difference-in-differences approach and instrumental variable analysis, the study finds the anchoring effect dominates. On average, property reassessment raises housing values by 9\% in counties, with a pronounced positive effect in high-priced regions and a negative impact in non-affluent regions. This highlights that while reassessment enhances tax fairness, it also disproportionately benefits wealthier individuals and widens geographical disparity in housing prices, contradicting wealth equality goals. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu & Yang, Tzu-Ting. The impact of on-campus residence on students' short and long-term academic outcomes---Evidence from boundary discontinuity design.
+* Tsai, Yung-Yu & Yang, Tzu-Ting. The impact of on-campus residence on students' academic and labor market outcomes---Evidence from boundary discontinuity design.
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This study investigates the influence of residing in student dormitories on short and long-term student outcomes within the context of Taiwan. This research examines the causal effects of on-campus residency by utilizing colleges’ dormitory assignment policy based on students’ residential locations and employing a boundary-based regression discontinuity design. The study incorporates a two-way fixed effect model, including both college and village fixed effects, to account for potential geographical self-selection biases. The findings reveal that on-campus living doesn’t significantly impact persistence, but it does enhance the likelihood of pursuing graduate education, primarily influenced by enrolling in the same college for undergraduate studies. This positive effect can be attributed to two intermediate outcomes: an increase in on-campus employment, indicative of greater on-campus engagement, and a higher likelihood of receiving awards from contests or competitions, suggesting increased participation in extracurricular activities. The impact is more pronounced among students from low-income families, those without siblings, and those attending more prestigious colleges. </font size></div>
 </details>
