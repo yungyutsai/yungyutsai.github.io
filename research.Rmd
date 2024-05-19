@@ -103,7 +103,7 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu & Fu, Kai-Jo. Does Having More Same-race Subordinates Benefit or Burden Supervisors?
+* Tsai, Yung-Yu & Fu, Kai-Jo. Does having more same-race subordinates benefit or burden supervisors?
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The government has been investing efforts in improving its workforce diversity. However, the representation of people of color at the leadership level remains scarce. Past research has confirmed that increased diversity at the leadership level can benefit government employees. Yet, little attention has been paid to the well-being of supervisors themselves and the potential consequences of neglecting their well-being. Utilizing federal employee surveys and the Federal Government’s human resources data, we examine the impact of having more same-race subordinates on job satisfaction for supervisors themselves. The findings suggest that having more subordinates from similar demographic backgrounds burdens supervisors of color, leading to a decrease in their job satisfaction. This relationship reverses only when the supervisors are from a dominant racial background or operate within an environment where they have more same-race co-workers at the leadership level. Role clarity, co-worker relationships, and supervisor relationships mediate these effects. These results imply that having more same-race subordinates puts managers of color into a conflict between the organizational norm and the expectations from subordinates of their own community. </font size></div>
 </details>
