@@ -15,7 +15,11 @@ pagetitle: Yung-Yu Tsai
 
 #### _University of Missouri_
 
-* State Government, Spring 2024 _(Undergraduate, Online Asynchronous)_
+* Public Policy Analysis, Fall 2024 _(Undergraduate)_
+
+<div style="line-height:50%;"><br></div>
+
+* State Government, Spring 2024 _(Undergraduate)_
 
 ------
 
@@ -23,24 +27,24 @@ pagetitle: Yung-Yu Tsai
 
 #### _University of Missouri_
 
-* Research Methods and Inquiry in Public Affairs, Spring 2024 _(Graduate; Online Asynchronous)_
+* Research Methods and Inquiry in Public Affairs, Spring 2024 _(Graduate)_
   - Topic: Introduction to statistical graphs
 
 <div style="line-height:50%;"><br></div>
 
-* Introduction To Public And Nonprofit Management, Fall 2023 _(Graduate, In-person)_
+* Introduction To Public And Nonprofit Management, Fall 2023 _(Graduate)_
   - Topic: Civil service system
 
 <div style="line-height:50%;"><br></div>
 
-* Chinese Politics and Foreign Policy, Spring 2023 _(Undergraduate, In-person)_
+* Chinese Politics and Foreign Policy, Spring 2023 _(Undergraduate)_
   - Topic: Politics of education: How education affects political participation and national identity in Chinese countries
 
 <div style="line-height:100%;"><br></div>
 
 #### _National Chengchi University (Taiwan)_
 
-* Quantitative Research Method, Spring 2019 _(Graduate, In-person)_
+* Quantitative Research Method, Spring 2019 _(Graduate)_
   - Topic: Application of administrative record data
   
  
@@ -52,18 +56,18 @@ pagetitle: Yung-Yu Tsai
 
 #### _University of Missouri_
 
-* State Government, Fall 2023 _(Undergraduate, In-person)_  
+* State Government, Fall 2023 _(Undergraduate)_  
 
 <div style="line-height:100%;"><br></div>
 
 #### _National Chengchi University (Taiwan)_
 
-* Fundamental Statistics for Public Administration, Spring 2019 _(Undergraduate, In-person)_
+* Fundamental Statistics for Public Administration, Spring 2019 _(Undergraduate)_
   - Outstanding Teaching Assistant Award
 
 <div style="line-height:50%;"><br></div>
   
-* Introduction to Statistics, Fall 2018 _(Graduate, In-person)_
+* Introduction to Statistics, Fall 2018 _(Graduate)_
 
 ------
 
@@ -72,11 +76,11 @@ pagetitle: Yung-Yu Tsai
 
 #### _University of Missouri_
 
-* Research Methods and Inquiry in Public Affairs, Spring 2023 _(Graduate, Online Asynchronous)_
+* Research Methods and Inquiry in Public Affairs, Spring 2023 _(Graduate)_
 
 <div style="line-height:50%;"><br></div>
 
-* American Government, Fall 2021 _(Undergraduate, Online Asynchronous)_
+* American Government, Fall 2021 _(Undergraduate)_
 
 ------
 
