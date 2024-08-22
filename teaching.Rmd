@@ -16,10 +16,12 @@ pagetitle: Yung-Yu Tsai
 #### _University of Missouri_
 
 * Public Policy Analysis, Fall 2024 _(Undergraduate)_
+  - <a href = "syllabus/PA4430_Syllabus_Fall2024.pdf" target="_blank">Syllabus</a>
 
 <div style="line-height:50%;"><br></div>
 
 * State Government, Spring 2024 _(Undergraduate)_
+  - <a href = "syllabus/PS2100_Syllabus_Spring2024.pdf" target="_blank">Syllabus</a>
 
 ------
 
