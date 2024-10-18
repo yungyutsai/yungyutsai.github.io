@@ -109,4 +109,13 @@ pagetitle: Yung-Yu Tsai
 > <div style="line-height:100%;"><font size=2> This study examines the impact of a Taiwanese upper secondary admission reform, which reduces the level of tracking without abandoning the general/vocational dual-track system. I utilize a difference-in-differences framework, comparing the difference of high school (exposed to the reform) and middle school (non-exposed to the reform) students before and after the reform. The results suggest that the reform raises the within-school student heterogeneity by around half the gap between full tracking and non-tracking system. Furthermore, the de-tracking reform leads to a 0.148 standard deviation drop in average student performance. The de-tracking policy yields an evenly negative impact throughout the whole distribution, implying that the efficiency gained from the tracking does not at the cost of equity. </font size></div>
 </details>
 
+<div style="line-height:50%;"><br></div>
+
+* Hung, Wan-Ju \& Tsai, Yung-Yu. Reducing administrative burden on disadvantaged vendors in government outsourcing: The role of request for proposal duration
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Governments have increasingly focused on enhancing equity and diversity in contracting. We apply administrative burden theory to government contracting, investigating ways for government to increase vendor diversity. Drawing on insights from administrative burden theory, we expect that longer request for proposal (RFP) duration allows disadvantaged vendors more time to navigate application complexities and, therefore, increase their participation and likelihood of winning contracts. We analyze data from Taiwan's Government Procurement System, covering 150,000 contracts from January 2023 to June 2024, with a focus on Disability Employment Organizations, Women's Welfare Organizations, and Indigenous Rights Organizations. We employ a fixed-effects model to control for agency-specific and product/service-specific factors, investigating the relationship between RFP duration and participation/bidding outcome of disadvantaged vendors. Results show each additional RFP day increases the participation of Disability Employment Organizations, Women's Welfare Organizations, and Indigenous Rights Organizations by 6%, 25%, and 8%, respectively. Moreover, each extra day increases the likelihood of Disability Employment Organizations and Women's Welfare Organizations winning bids by 8% and 15%, respectively. Our findings provide evidence that extending proposal submission windows can enhance diversity and equity in government contracting.
+ </font size></div>
+</details>
+
+
 <div style="line-height:100%;"><br></div>
