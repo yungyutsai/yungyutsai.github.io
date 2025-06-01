@@ -9,14 +9,14 @@ pagetitle: Yung-Yu Tsai
 }
 </style>
 
-<img src="images/yungyutsai.png" style="width:40%; border:0px solid; margin-right: 50px; margin-top: 20px" align="left">
+<img src="images/yungyutsai.png" style="width:32%; border:0px solid; margin-right: 50px; margin-top: 20px" align="left">
 <!--
 <iframe width="560" height="315" style="margin-right: 20px" align="left" frameborder="0"
 src="https://www.youtube.com/embed/-26g5lJaFhE">
 </iframe>
 --> 
 
-I am a doctoral candidate at the University of Missouri <a href="https://truman.missouri.edu" target="_blank">Harry S Truman School of Government and Public Affairs</a>.
+I obtained my PhD in Public Affairs from the University of Missouri <a href="https://truman.missouri.edu" target="_blank">Harry S Truman School of Government and Public Affairs</a> in 2025 Spring. I will be joining as an assistant professor at the <a href="https://ici.nccu.edu.tw" target="_blank">International College of Innovation</a> at the National Chengchi University from 2025 Fall.
 
 My research interests lie in public policy, public finance, and social equity. In particular, my studies focus on three primary streams: (1) the effectiveness and equity of government funding and taxation, (2) finance and workforce management in education and public sectors, and (3) the impact of financial and non-financial resources on education and socioeconomic outcomes. Some of my recent work focuses on the impact of taxing elite colleges on their spending, tuition, and associated student outcomes; the impact of cash transfers on household decisions regarding fertility and investment in children's education; the influence of on-campus residence on college students' persistence and long-term academic and labor market results; and the effects of reassessing property to market values on housing prices and wealth distribution.
 I am a recipient of the 2024 Taiwanese Overseas Pioneers Grants (TOP Grants) from the National Science and Technology Council (NSTC, Taiwan) and the 2023 Equity and Inclusion Student Fellowship from the Association for Public Policy Analysis and Management (APPAM).
