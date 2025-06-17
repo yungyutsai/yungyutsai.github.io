@@ -9,17 +9,7 @@ pagetitle: Yung-Yu Tsai
 }
 </style>
 
-### Job Market Paper
-
-* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. [<a href = "papers/EndowmentTax.pdf" target="_blank">Working Paper</a>] [<a href = "papers/EndowmentTax_OnlineAppendix.pdf" target="_blank">Online Appendix</a>]
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a net investment income tax on select wealthy nonprofit colleges. This study examines institutional responses and their impact on educational access. Findings suggest that taxed colleges raised tuition, transferring the burden to students and reducing access for historically underserved groups. However, some colleges strategically increased enrollment to circumvent the tax threshold, creating more educational opportunities. These contrasting responses highlight how policy design significantly influences institutional reactions to taxation. While the tax aimed to address wealth concentration in higher education, its implementation produced mixed results — in some cases undermining educational access while in others expanding it. The findings demonstrate how tax policy can guide institutional behavior toward socially beneficial outcomes. </font size></div>
-</details>
-
-------
-
 ### Peer-reviewed Publications
-
 
 * Pham, Trang & Tsai, Yung-Yu (2024). The roles of faculty hiring and retention in shaping diversity and representation in U.S. higher education institutions: A retrospective and prospective analysis from 2001 to 2035. _Research In Higher Education, 65_. 1420–1460. [<a href = "https://link.springer.com/article/10.1007/s11162-024-09810-w" target="_blank">Journal Article</a>] [<a href = "papers/faculty_diversity.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/faculty_diversity_representation/tree/main" target="_blank">Data and Code</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
@@ -74,13 +64,13 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu, Fu, Kai-Jo, & Keiser, Lael. The relationship between same-race subordinates and federal supervisors’ job satisfaction. (Alternative title: Does having more same-race subordinates benefit or burden supervisors?) [<a href = "papers/BurdensOfSupervisors.pdf" target="_blank">Working Paper</a>] <details> <summary><font size=2>Abstract</font size></summary>
+* Tsai, Yung-Yu, Fu, Kai-Jo, & Keiser, Lael. The relationship between same-race subordinates and federal supervisors’ job satisfaction. _(Under Reviewed)_ [<a href = "papers/BurdensOfSupervisors.pdf" target="_blank">Working Paper</a>] <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The US federal government has been investing in workforce diversity, yet people of color remain underrepresented in leadership, creating challenges for supervisors of color. This study examines how same-race subordinates affect supervisors’ job satisfaction using federal employee data from 2020-2023. Results show an asymmetric effect: while White supervisors benefit from more same-race subordinates, supervisors of color experience decreased job satisfaction. This negative effect diminishes as minority representation in leadership increases, becoming positive when they exceed 35% of supervisors. Role clarity and supervisor relationships mediate these effects, suggesting supervisors of color face role conflict between organizational norms and community expectations. The findings highlight the burden of representation faced by minority supervisors and the importance of achieving critical mass in leadership positions. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. [<a href = "papers/EndowmentTax.pdf" target="_blank">Working Paper</a>] [<a href = "papers/EndowmentTax_OnlineAppendix.pdf" target="_blank">Online Appendix</a>]
+* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. _(Under Reviewed)_ [<a href = "papers/EndowmentTax.pdf" target="_blank">Working Paper</a>] [<a href = "papers/EndowmentTax_OnlineAppendix.pdf" target="_blank">Online Appendix</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a net investment income tax on select wealthy nonprofit colleges. This study examines institutional responses and their impact on educational access. Findings suggest that taxed colleges raised tuition, transferring the burden to students and reducing access for historically underserved groups. However, some colleges strategically increased enrollment to circumvent the tax threshold, creating more educational opportunities. These contrasting responses highlight how policy design significantly influences institutional reactions to taxation. While the tax aimed to address wealth concentration in higher education, its implementation produced mixed results — in some cases undermining educational access while in others expanding it. The findings demonstrate how tax policy can guide institutional behavior toward socially beneficial outcomes. </font size></div>
 </details
