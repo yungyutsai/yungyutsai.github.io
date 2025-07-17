@@ -1,7 +1,7 @@
 name: "Yung-Yu Tsai"
 output_dir: "."
 navbar:
-  title: "Yung-Yu Tsai"
+  title: "Yung-Yu Tsai (蔡咏諭)"
   type: inverse
   left:
     - text: "Home"

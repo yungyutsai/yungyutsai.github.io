@@ -10,79 +10,28 @@ pagetitle: Yung-Yu Tsai
 </style>
 
 
-### Instructor of Record
+
+### National Chengchi University
+
+* Public Policy Analysis and Advocacy, Fall 2025
+  - <a href = "https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=ZU1860&gop=00&s=1.html" target="_blank">Syllabus</a>
+
 <div style="line-height:50%;"><br></div>
 
-#### _University of Missouri_
+* Analysis and Application of Large-Scale International Survey Data, Spring 2025
+  - <a href = "https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=ZU1861&gop=00&s=1.html" target="_blank">Syllabus</a>
 
-* Public Policy Analysis, Fall 2024 _(Undergraduate)_
+------
+
+### University of Missouri
+
+* Public Policy Analysis, Fall 2024
   - <a href = "syllabus/PA4430_Syllabus_Fall2024.pdf" target="_blank">Syllabus</a>
 
 <div style="line-height:50%;"><br></div>
 
-* State Government, Spring 2024 _(Undergraduate)_
+* State Government, Spring 2024
   - <a href = "syllabus/PS2100_Syllabus_Spring2024.pdf" target="_blank">Syllabus</a>
-
-------
-
-### Guest Lecture
-
-#### _University of Missouri_
-
-* Research Methods and Inquiry in Public Affairs, Spring 2024 _(Graduate)_
-  - Topic: Introduction to statistical graphs
-
-<div style="line-height:50%;"><br></div>
-
-* Introduction To Public And Nonprofit Management, Fall 2023 _(Graduate)_
-  - Topic: Civil service system
-
-<div style="line-height:50%;"><br></div>
-
-* Chinese Politics and Foreign Policy, Spring 2023 _(Undergraduate)_
-  - Topic: Politics of education: How education affects political participation and national identity in Chinese countries
-
-<div style="line-height:100%;"><br></div>
-
-#### _National Chengchi University (Taiwan)_
-
-* Quantitative Research Method, Spring 2019 _(Graduate)_
-  - Topic: Application of administrative record data
-  
- 
-------
-
-### Lab Instructor
-<div style="line-height:50%;"><br></div>
-  
-
-#### _University of Missouri_
-
-* State Government, Fall 2023 _(Undergraduate)_  
-
-<div style="line-height:100%;"><br></div>
-
-#### _National Chengchi University (Taiwan)_
-
-* Fundamental Statistics for Public Administration, Spring 2019 _(Undergraduate)_
-  - Outstanding Teaching Assistant Award
-
-<div style="line-height:50%;"><br></div>
-  
-* Introduction to Statistics, Fall 2018 _(Graduate)_
-
-------
-
-### Teaching Assistant
-<div style="line-height:50%;"><br></div>
-
-#### _University of Missouri_
-
-* Research Methods and Inquiry in Public Affairs, Spring 2023 _(Graduate)_
-
-<div style="line-height:50%;"><br></div>
-
-* American Government, Fall 2021 _(Undergraduate)_
 
 ------
 

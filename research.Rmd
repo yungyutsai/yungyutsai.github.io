@@ -57,10 +57,17 @@ pagetitle: Yung-Yu Tsai
 
 ### Working Papers
 
-* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Resubmitted to Journal of Labor Economics)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
+* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Revision Request from Journal of Labor Economics)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This paper utilizes wealth shocks from winning lottery prizes to examine the causal effect of financial resources on fertility. We employ extensive panels of administrative data encompassing over 0.4 million lottery winners in Taiwan and implement a triple-differences design. Our analyses reveal that a substantial lottery win can significantly increase fertility, the implied wealth elasticity of which is around 0.06. Moreover, the primary channel through which fertility increases is by prompting first births among previously childless individuals. Finally, our analysis reveals that approximately 25\% of the total fertility effect stems from increased marriage rates following a lottery win. </font size></div>
 </details>
+
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. _(Revision Request from Educational Evaluation and Policy Analysis)_ [<a href = "papers/EndowmentTax.pdf" target="_blank">Working Paper</a>] [<a href = "papers/EndowmentTax_OnlineAppendix.pdf" target="_blank">Online Appendix</a>]
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a net investment income tax on select wealthy nonprofit colleges. This study examines institutional responses and their impact on educational access. Findings suggest that taxed colleges raised tuition, transferring the burden to students and reducing access for historically underserved groups. However, some colleges strategically increased enrollment to circumvent the tax threshold, creating more educational opportunities. These contrasting responses highlight how policy design significantly influences institutional reactions to taxation. While the tax aimed to address wealth concentration in higher education, its implementation produced mixed results — in some cases undermining educational access while in others expanding it. The findings demonstrate how tax policy can guide institutional behavior toward socially beneficial outcomes. </font size></div>
+</details
 
 <div style="line-height:50%;"><br></div>
 
@@ -68,12 +75,6 @@ pagetitle: Yung-Yu Tsai
 > <div style="line-height:100%;"><font size=2> The US federal government has been investing in workforce diversity, yet people of color remain underrepresented in leadership, creating challenges for supervisors of color. This study examines how same-race subordinates affect supervisors’ job satisfaction using federal employee data from 2020-2023. Results show an asymmetric effect: while White supervisors benefit from more same-race subordinates, supervisors of color experience decreased job satisfaction. This negative effect diminishes as minority representation in leadership increases, becoming positive when they exceed 35% of supervisors. Role clarity and supervisor relationships mediate these effects, suggesting supervisors of color face role conflict between organizational norms and community expectations. The findings highlight the burden of representation faced by minority supervisors and the importance of achieving critical mass in leadership positions. </font size></div>
 </details>
 
-<div style="line-height:50%;"><br></div>
-
-* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. _(Under Reviewed)_ [<a href = "papers/EndowmentTax.pdf" target="_blank">Working Paper</a>] [<a href = "papers/EndowmentTax_OnlineAppendix.pdf" target="_blank">Online Appendix</a>]
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a net investment income tax on select wealthy nonprofit colleges. This study examines institutional responses and their impact on educational access. Findings suggest that taxed colleges raised tuition, transferring the burden to students and reducing access for historically underserved groups. However, some colleges strategically increased enrollment to circumvent the tax threshold, creating more educational opportunities. These contrasting responses highlight how policy design significantly influences institutional reactions to taxation. While the tax aimed to address wealth concentration in higher education, its implementation produced mixed results — in some cases undermining educational access while in others expanding it. The findings demonstrate how tax policy can guide institutional behavior toward socially beneficial outcomes. </font size></div>
-</details
 
 ------
 

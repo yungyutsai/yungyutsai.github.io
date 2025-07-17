@@ -16,18 +16,12 @@ src="https://www.youtube.com/embed/-26g5lJaFhE">
 </iframe>
 --> 
 
-I obtained my PhD in Public Affairs from the University of Missouri <a href="https://truman.missouri.edu" target="_blank">Harry S Truman School of Government and Public Affairs</a> in 2025 Spring. I will be joining as an assistant professor at the <a href="https://ici.nccu.edu.tw" target="_blank">International College of Innovation</a> at the National Chengchi University from 2025 Fall.
+I am an assistant professor at the <a href="https://ici.nccu.edu.tw" target="_blank">International College of Innovation</a> at the National Chengchi University (國立政治大學創新國際學院).
 
-As an empirical public policy scholar, I investigate how public policies, fiscal resources, and incentives shape individual behavior and institutional outcomes. My research sits at the intersection of public policy, public finance, and social equity. Drawing on population-scale administrative data, survey micro-data, and a range of causal inference and other rigorous quantitative methods, I analyze questions that matter for social equity and government effectiveness.
+As an empirical public policy scholar, I study how policy design, fiscal resources, and incentive structures shape individual behavior and institutional performance. My work lies at the intersection of public policy, public finance, and social equity. Drawing on population‑scale administrative data, survey micro‑data, and a suite of causal inference and other rigorous quantitative methods, I address questions central to social equity and government effectiveness. Across projects, the throughline is a commitment to actionable evidence that supports fairer, more accountable, and more innovative public policy.
 
-My work revolves around three core themes. First, how do policy reforms or regulatory changes alter decisions made by people and organizations, and what broader effects follow? Second, how do administrative barriers, policy designs, organizational settings, and political constraints create inequities, and what strategies can governments adopt to close those gaps and improve equity? Third, how do individuals and institutions respond to external shocks, ranging from economic disruptions and demographic shifts to public health crises, and how can well-designed policies mitigate their impact?
-
-These themes are explored in diverse settings spanning education, labor markets, health care, and public management. The common thread is a commitment to evidence that can guide fairer and more effective policy choices. My goal is to generate knowledge that advances equity, accountability, and innovation across the public sector.
-
-Recent honors include the 2024 Taiwanese Overseas Pioneers Grant from the National Science and Technology Council (Taiwan) and the 2023 Equity and Inclusion Student Fellowship from the Association for Public Policy Analysis and Management.
-
-I obtained my MPA (Master of Public Administration) degree from National Chengchi University (Taiwan) in 2019 and a Bachelor of Arts in Political Science from National Taiwan University in 2015. Prior to starting my graduate studies, I worked in the Congress of Taiwan.
+I earned a PhD in Public Affairs from the University of Missouri’s <a href="https://truman.missouri.edu" target="_blank">Harry S Truman School of Government and Public Affairs</a> in 2025. I also hold an MPA (Master of Public Administration) from National Chengchi University (Taiwan, 2019) and a BA in Political Science from National Taiwan University (2015); before beginning graduate study, I worked in the Congress of Taiwan.
 
 My full CV is available <a href = "files/CV_YungYuTsai.pdf" target="_blank">here</a>.
 
-Contact: ytsai@mail.missouri.edu
+Contact: ytsai@nccu.edu.tw
