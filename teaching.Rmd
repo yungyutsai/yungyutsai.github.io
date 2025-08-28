@@ -18,7 +18,7 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Analysis and Application of Large-Scale International Survey Data, Spring 2025
+* Analysis and Application of Large-Scale International Survey Data, Fall 2025
   - <a href = "https://newdoc.nccu.edu.tw/teaschm/1141/schmPrv.jsp-yy=114&smt=1&num=ZU1860&gop=00&s=1.html" target="_blank">Syllabus</a>
 
 ------
