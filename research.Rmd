@@ -11,6 +11,14 @@ pagetitle: Yung-Yu Tsai
 
 ### Peer-reviewed Publications
 
+
+* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _Journal of Labor Economics, forthcoming_. (accepted, in-press). 
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> This paper utilizes wealth shocks from winning lottery prizes to examine the causal effect of financial resources on fertility. We employ extensive panels of administrative data encompassing over 0.4 million lottery winners in Taiwan and implement a triple-differences design. Our analyses reveal that a substantial lottery win can significantly increase fertility, the implied wealth elasticity of which is around 0.06. Moreover, the primary channel through which fertility increases is by prompting first births among previously childless individuals. Finally, our analysis reveals that approximately 25\% of the total fertility effect stems from increased marriage rates following a lottery win. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
 * Pham, Trang & Tsai, Yung-Yu (2024). The roles of faculty hiring and retention in shaping diversity and representation in U.S. higher education institutions: A retrospective and prospective analysis from 2001 to 2035. _Research In Higher Education, 65_. 1420–1460. [<a href = "https://link.springer.com/article/10.1007/s11162-024-09810-w" target="_blank">Journal Article</a>] [<a href = "papers/faculty_diversity.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/faculty_diversity_representation/tree/main" target="_blank">Data and Code</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> U.S. higher education institutions are hiring more minoritized faculty into their teaching workforce to satisfy the demand of an increasingly diverse racial and ethnic student population. However, it is not always clear whether specific hiring policies and plans are intended to address the matter of diversity or representation—two similar but qualitatively different concepts. The policy choices that institutions make result in different implementation approaches and long-term outcomes. Using data from the Integrated Postsecondary Education Data System (IPEDS) from 2001 to 2021, this study measures and compares the changes in faculty diversity and student–faculty representation in U.S. higher education institutions over the past two decades. It then develops several simulated scenarios to project the future racial and ethnic landscape of American campuses, depending on the different policy choices that institutions make through their hiring and retention policies. Our recommendation calls for balanced efforts in the retention and hiring of minoritized and underrepresented faculty that are adapted to the individual circumstances of institutions. </font size></div>
@@ -57,21 +65,15 @@ pagetitle: Yung-Yu Tsai
 
 ### Working Papers
 
-* Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _(Revision Request from Journal of Labor Economics)_ [<a href = "https://ssrn.com/abstract=4300448" target="_blank">Working Paper</a>]
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> This paper utilizes wealth shocks from winning lottery prizes to examine the causal effect of financial resources on fertility. We employ extensive panels of administrative data encompassing over 0.4 million lottery winners in Taiwan and implement a triple-differences design. Our analyses reveal that a substantial lottery win can significantly increase fertility, the implied wealth elasticity of which is around 0.06. Moreover, the primary channel through which fertility increases is by prompting first births among previously childless individuals. Finally, our analysis reveals that approximately 25\% of the total fertility effect stems from increased marriage rates following a lottery win. </font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
-
-* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. _(Revision Request from Educational Evaluation and Policy Analysis)_ [<a href = "papers/EndowmentTax.pdf" target="_blank">Working Paper</a>] [<a href = "papers/EndowmentTax_OnlineAppendix.pdf" target="_blank">Online Appendix</a>]
+* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. _(Revision Request from Educational Evaluation and Policy Analysis)_ 
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a net investment income tax on select wealthy nonprofit colleges. This study examines institutional responses and their impact on educational access. Findings suggest that taxed colleges raised tuition, transferring the burden to students and reducing access for historically underserved groups. However, some colleges strategically increased enrollment to circumvent the tax threshold, creating more educational opportunities. These contrasting responses highlight how policy design significantly influences institutional reactions to taxation. While the tax aimed to address wealth concentration in higher education, its implementation produced mixed results — in some cases undermining educational access while in others expanding it. The findings demonstrate how tax policy can guide institutional behavior toward socially beneficial outcomes. </font size></div>
 </details
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu, Fu, Kai-Jo, & Keiser, Lael. The relationship between same-race subordinates and federal supervisors’ job satisfaction. _(Under Reviewed)_ [<a href = "papers/BurdensOfSupervisors.pdf" target="_blank">Working Paper</a>] <details> <summary><font size=2>Abstract</font size></summary>
+* Tsai, Yung-Yu, Fu, Kai-Jo, & Keiser, Lael. The relationship between same-race subordinates and federal supervisors’ job satisfaction. _(Revision Request from Public Personnel Management)_ 
+<details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The US federal government has been investing in workforce diversity, yet people of color remain underrepresented in leadership, creating challenges for supervisors of color. This study examines how same-race subordinates affect supervisors’ job satisfaction using federal employee data from 2020-2023. Results show an asymmetric effect: while White supervisors benefit from more same-race subordinates, supervisors of color experience decreased job satisfaction. This negative effect diminishes as minority representation in leadership increases, becoming positive when they exceed 35% of supervisors. Role clarity and supervisor relationships mediate these effects, suggesting supervisors of color face role conflict between organizational norms and community expectations. The findings highlight the burden of representation faced by minority supervisors and the importance of achieving critical mass in leadership positions. </font size></div>
 </details>
 
@@ -79,6 +81,12 @@ pagetitle: Yung-Yu Tsai
 
 * Hung, Wan-Ju \& Tsai, Yung-Yu. Linking government contracting programs for social goals to public employees’ job satisfaction: Findings from the Federal Small Disadvantaged Business Contracting Program. _(Under Reviewed)_ <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> While contracting out is often viewed as having negative consequences for public employees, less focus has been placed on understanding how it can also have positive outcomes for them. Recent scholarship proposes that contracting out may improve employees’ work attitudes when it emphasizes pro-social factors. Using the U.S. federal small, disadvantaged business (SDB) contracting program—which emphasizes diversity and equity in procurement—as an example, this study examines the relationship between contracting programs aimed at promoting social outcomes and public employees’ job satisfaction. Drawing insights from public administration research, we expect a positive relationship between the SDB contracting efforts and public employees’ satisfaction. The U.S. federal government procurement data and the Federal Employee Viewpoint Survey (FEVS) were used for analysis. The results show that increased SDB contracting is associated with enhanced job satisfaction. In addition, employees of underrepresented backgrounds experience a more pronounced increase in satisfaction linked to SDB contracting initiatives. The implications of the findings for government contracting and public human resource management are discussed. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu. The equity-efficiency trade-off: Impact of Taiwan’s high school detracking reform on school stratification, educational access, and student performance. _(Under Reviewed)_ <details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> This study examines Taiwan's 2014 exam-free high school admission reform, which reduced ability tracking while maintaining the general/vocational dual-track system. Using difference-in-differences analysis comparing high school students (exposed) and middle school students (not exposed), I find that the reform increased within-school heterogeneity by 0.088 standard deviations, closing approximately 40\% of the stratification gap between full tracking and non-tracking systems. The reform improved equity by enhancing low-performing students' access to higher-quality schools, qualified teachers, and high-achieving peers. However, this comes at a cost: the detracking reform results in a 0.171 standard deviation decrease in average student performance, with negative effects distributed uniformly across the entire achievement distribution. These findings reveal a fundamental equity-efficiency trade-off, suggesting detracking policies improve educational access for disadvantaged students but may reduce overall academic achievement. </font size></div>
 </details>
 
 ------
@@ -99,13 +107,6 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu. The impact of tracking on student achievement and achievement gap---Evidence from admission reform in Taiwan
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> This study examines the impact of a Taiwanese upper secondary admission reform, which reduces the level of tracking without abandoning the general/vocational dual-track system. I utilize a difference-in-differences framework, comparing the difference of high school (exposed to the reform) and middle school (non-exposed to the reform) students before and after the reform. The results suggest that the reform raises the within-school student heterogeneity by around half the gap between full tracking and non-tracking system. Furthermore, the de-tracking reform leads to a 0.148 standard deviation drop in average student performance. The de-tracking policy yields an evenly negative impact throughout the whole distribution, implying that the efficiency gained from the tracking does not at the cost of equity. </font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
-
 * Hung, Wan-Ju \& Tsai, Yung-Yu. Understanding market competition in government contracting: The role of state-imposed administrative burdens and solicitation durations.
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Market competition is a fundamental justification for government contracting, yet competitive environments are often difficult to achieve in practice. This study examines how state-imposed administrative burdens affect competition in government contracting and whether extending solicitation durations can mitigate these burdens. Analyzing 79,968 contracts and 184,550 bids from Taiwan’s e-procurement system, we find that both learning costs (measured by bidding instruction length) and compliance costs (measured by document requirements and deposit mandates) significantly reduce market competition. Importantly, longer solicitation periods partially offset the negative effect of documents and deposit requirements, though they do not mitigate the negative impact of lengthy bidding instructions. Our findings contribute to contracting literature by applying an administrative burden framework to business-government interactions and offer practical strategies for procurement officials seeking to enhance market competition.
@@ -118,6 +119,5 @@ pagetitle: Yung-Yu Tsai
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Artificial Intelligence (AI) has been widely adopted in government and public service but whether and to what extent governments adopt AI varies. A key question is whether variation in AI adoption across local governments stems from capacity constraints or political preferences. This matters for knowing which kinds of policies would be most successful in making sure that local governments have access to the technologies that they want and need. This paper combines data from the International City/County Management Association (ICMA) Survey, American Trends Panel (ATP), the Current Population Survey (CPS), and other public data sources to examine how capacity and political factors influence local government AI adoption in the United States. Using logistic and Poisson regression models, we find that citizens’ attitudes toward AI, public employee unionization, local governments’ financial capacity, and infrastructure support are all key determinants of AI adoption. Notably, political factors (citizens’ attitudes and employees’ resistance) are equally influential as capacity factors in explaining government AI adoption, and in some cases, more powerful. These findings suggest that variation in AI adoption across local governments results not only from capacity barriers but also from political preferences, highlighting the role of democratic processes in technology adoption decisions. </font size></div>
 </details>
-
 
 <div style="line-height:100%;"><br></div>
