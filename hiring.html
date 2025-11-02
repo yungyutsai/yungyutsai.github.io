@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research Assistant Recruitment (Yung-Yu Tsai)</title>
+
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Yung-Yu Tsai (蔡咏諭)</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="files/CV_YungYuTsai.pdf" target="_blank">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=_WhdZL8AAAAJ&amp;hl=en">
+    <span class="fa fa-book fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/yungyu-tsai-a7a289176/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<style>
+  body{
+  font-size: 12pt;
+}
+</style>
+<p><a href="#English-Version">👉 English Version</a></p>
+<div id="招募研究助理政府採購-社會公平-資料科學" class="section level2">
+<h2>招募研究助理｜政府採購 × 社會公平 × 資料科學</h2>
+<p>想用資料探索公共政策？</p>
+<p>想理解政府如何花「每年上兆元」的公共採購預算？</p>
+<p>想打開政府採購的「黑盒子」？</p>
+<p>歡迎加入政治大學創新國際學院蔡咏諭老師的研究計畫！</p>
+<hr />
+<p><strong>徵求人數</strong>：2–3名<br />
+<strong>薪資</strong>：每月 8,000–12,000
+元（依經歷、工作內容與時數調整；可選擇「學習型助理」或「勞動型助理」；後續視工作表現調整）<br />
+<strong>任用資格</strong>：大學部或研究所在學學生；非政大學生報聘時需檢附他校同意書<br />
+<strong>工作地點</strong>：遠距或政大校內</p>
+<div style="line-height:50%;">
+<br>
+</div>
+<p><strong>研究計畫主題：</strong></p>
+<p>本計畫探討政府在採購（外包）過程中，如何在「效率」與「公平」之間取得平衡。具體包含以下幾個議題：</p>
+<ol style="list-style-type: decimal">
+<li><p>政府採購行流程與規範對廠商投標意願、採購執行與標案成果之影響</p></li>
+<li><p>身心障礙優先採購政策對採購公平與效率影響</p></li>
+<li><p>採購委員會成員組成對評分結果及廠商得標之影響</p></li>
+<li><p>公部門採購永續發展指標廠商或環保標章產品的決定因素</p></li>
+</ol>
+<p>這是結合公共行政、資料分析、社會公平、永續治理的跨領域研究！
+歡迎對政府採購、公私協力、社會公平、永續發展等議題有興趣的同學加入！</p>
+<hr />
+<div id="助理工作類型可依能力興趣安排無須全做" class="section level3">
+<h3>助理工作類型（可依能力興趣安排，無須全做）</h3>
+<div id="a.-行政助理" class="section level4">
+<h4>A. 行政助理</h4>
+<p><strong>工作內容：</strong></p>
+<ul>
+<li><p>處理計畫相關採購、核銷事宜</p></li>
+<li><p>與校內外相關單位聯絡、文件寄送、借場地等行政事項</p></li>
+</ul>
+<p><strong>條件：</strong></p>
+<ul>
+<li><p>熟悉 Microsoft Word、Excel</p></li>
+<li><p>中文口頭及書面溝通流暢</p></li>
+</ul>
+<div style="line-height:50%;">
+<br>
+</div>
+</div>
+<div id="b.-文獻檢閱與資料搜集助理" class="section level4">
+<h4>B. 文獻檢閱與資料搜集助理</h4>
+<p><strong>工作內容：</strong></p>
+<ul>
+<li><p>搜集比較國內外文獻、政策、案例、統計資料等</p></li>
+<li><p>協助研究報告排版、校稿、格式調整等</p></li>
+</ul>
+<p><strong>條件：</strong></p>
+<ul>
+<li><p>熟悉 Microsoft Word、Excel</p></li>
+<li><p>英文閱讀能力佳（不限中文能力）</p></li>
+<li><p>對任一子題具研究興趣</p></li>
+</ul>
+<div style="line-height:50%;">
+<br>
+</div>
+</div>
+<div id="c.-資料整理與分析助理" class="section level4">
+<h4>C. 資料整理與分析助理</h4>
+<p><strong>工作內容：</strong></p>
+<ul>
+<li><p>使用統計軟體整理與分析研究資料</p></li>
+<li><p>視能力支援網路爬蟲資料蒐集</p></li>
+</ul>
+<p><strong>條件：</strong></p>
+<ul>
+<li><p>熟悉任一統計軟體（R、Stata 或 Python）或願意學習</p></li>
+<li><p>具備基本中文閱讀能力（可用翻譯工具輔助）</p></li>
+<li><p>對大數據、文字探勘、網路爬蟲或任一子題感興趣</p></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="你可以得到" class="section level3">
+<h3>你可以得到：</h3>
+<ul>
+<li><p>社會科學研究與資料分析訓練</p></li>
+<li><p>政府採購政策領域知識</p></li>
+<li><p>有助於未來求職、留學與升學</p></li>
+</ul>
+<hr />
+</div>
+<div id="應徵方式" class="section level3">
+<h3>應徵方式</h3>
+<p>請 email 至：<strong><a href="mailto:ytsai@nccu.edu.tw"
+class="email">ytsai@nccu.edu.tw</a></strong><br />
+信件主旨：「應徵研究助理－姓名」</p>
+<p>請附上：</p>
+<ol style="list-style-type: decimal">
+<li><p>自我介紹（含年級、系所、研究或工作興趣）</p></li>
+<li><p>擅長技能、語言能力、可投入時數</p></li>
+<li><p>過去相關經驗（如有）</p></li>
+<li><p>申請助理類型（A/B/C，可複選）</p></li>
+<li><p>預計可開始工作日期</p></li>
+</ol>
+<p><a name="English-Version"></a></p>
+<p>審查後將通知面談／線上晤談。</p>
+<hr />
+<div style="line-height:80%;">
+<br>
+</div>
+</div>
+</div>
+<div
+id="research-assistant-recruitmentgovernment-procurement-social-equity-data-science"
+class="section level2">
+<h2>Research Assistant Recruitment｜Government Procurement × Social
+Equity × Data Science</h2>
+<p>Are you interested in exploring public policy using real-world
+data?</p>
+<p>Curious how governments spend billions on procurement every year?
+Interested in unlocking the black box of government contracting?</p>
+<p>Join Professor Yung-Yu Tsai’s research project at NCCU’s
+International College of Innovation!</p>
+<hr />
+<p><strong>Number of Positions</strong>: 2–3<br />
+<strong>Salary</strong>: NTD 8,000–12,000 per month (depending on
+experience, workload, and hours; salary adjustment based on
+performance)<br />
+<strong>Eligibility</strong>: Undergraduate or graduate students
+enrolled in a university; non-NCCU students must provide institutional
+approval form upon hiring<br />
+<strong>Work Location</strong>: Remote or on campus (National Chengchi
+University)</p>
+<div style="line-height:50%;">
+<br>
+</div>
+<p><strong>Research Topics</strong></p>
+<p>This project investigates how governments balance efficiency and
+equity in the procurement (outsourcing) process.</p>
+<p>You will be exposed to several research topics, including:</p>
+<ol style="list-style-type: decimal">
+<li><p>Effects of administrative measures in government procurement on
+bidding incentives, implementation processes, and outcomes</p></li>
+<li><p>Impact of preferred procurement policies for shelter workshops
+and disability-serving organization on fairness and efficiency</p></li>
+<li><p>Influence of procurement committee composition on evaluation
+results and awardees</p></li>
+<li><p>Factors affecting public agencies’ procurement of sustainable
+suppliers or environmentally certified products</p></li>
+</ol>
+<p>These topics connect public administration, data analysis, social
+equity, and sustainability—all of which are hot and growing research
+areas in international public policy scholarship. Students interested in
+government procurement, public-private collaboration, social equity, and
+sustainability are welcome!</p>
+<hr />
+<div id="types-of-ra-roles-assigned-based-on-ability-interest"
+class="section level3">
+<h3>Types of RA Roles (Assigned based on ability &amp; interest)</h3>
+<div id="a.-administrative-assistant" class="section level4">
+<h4>A. Administrative Assistant</h4>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li><p>Handle procurement, reimbursement, and related paperwork</p></li>
+<li><p>Contact relevant university/internal units, send documents,
+reserve meeting rooms</p></li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li><p>Proficiency in Microsoft Word &amp; Excel</p></li>
+<li><p>Strong Mandarin Chinese communication capability</p></li>
+</ul>
+<div style="line-height:50%;">
+<br>
+</div>
+</div>
+<div id="b.-literature-review-data-collection-assistant"
+class="section level4">
+<h4>B. Literature Review &amp; Data Collection Assistant</h4>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li><p>Collect, organize, and compare literature, policies, cases, and
+statistical data</p></li>
+<li><p>Assist with typesetting, proofreading, formatting
+reports</p></li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li><p>Proficiency in Microsoft Word &amp; Excel</p></li>
+<li><p>Strong English reading ability (Chinese not required)</p></li>
+<li><p>Interest in at least one project topic</p></li>
+</ul>
+<div style="line-height:50%;">
+<br>
+</div>
+</div>
+<div id="c.-data-processing-analysis-assistant" class="section level4">
+<h4>C. Data Processing &amp; Analysis Assistant</h4>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li><p>Data cleaning and statistical analysis</p></li>
+<li><p>Web scraping tasks (if interested/able)</p></li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li><p>Familiarity with at least one statistical software (R, Stata,
+Python) or willingness to learn</p></li>
+<li><p>Basic Chinese reading ability (translation tools
+allowed)</p></li>
+<li><p>Interest in big data analytics, text mining, web scraping, or
+related topics</p></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="what-you-will-gain" class="section level3">
+<h3>What You Will Gain</h3>
+<ul>
+<li><p>Hands-on experience in social science research</p></li>
+<li><p>Skills in data analysis &amp; policy evaluation</p></li>
+<li><p>Academic mentoring and career advice</p></li>
+<li><p>Strong advantage for graduate school or job applications</p></li>
+</ul>
+<hr />
+</div>
+<div id="application-english" class="section level3">
+<h3>Application (English)</h3>
+<p>Please email to <strong><a href="mailto:ytsai@nccu.edu.tw"
+class="email">ytsai@nccu.edu.tw</a></strong><br />
+Subject line: <strong>Application – Research Assistant – Your
+Name</strong></p>
+<p>Include:</p>
+<ol style="list-style-type: decimal">
+<li><p>Self-introduction (department, year, interests)</p></li>
+<li><p>Skills, language proficiency, available work hours</p></li>
+<li><p>Relevant experience (if any)</p></li>
+<li><p>Preferred assistant type(s) (A/B/C)</p></li>
+<li><p>Available start date</p></li>
+</ol>
+<p>Shortlisted candidates will be contacted for an interview.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

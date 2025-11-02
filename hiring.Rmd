@@ -1,0 +1,260 @@
+---
+pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<style>
+  body{
+  font-size: 12pt;
+}
+</style>
+
+[👉 English Version](#English-Version)
+
+## 招募研究助理｜政府採購 × 社會公平 × 資料科學
+
+想用資料探索公共政策？
+
+想理解政府如何花「每年上兆元」的公共採購預算？
+
+想打開政府採購的「黑盒子」？
+
+歡迎加入政治大學創新國際學院蔡咏諭老師的研究計畫！
+
+------
+
+**徵求人數**：2–3名  
+**薪資**：每月 8,000–12,000 元（依經歷、工作內容與時數調整；可選擇「學習型助理」或「勞動型助理」；後續視工作表現調整）  
+**任用資格**：大學部或研究所在學學生；非政大學生報聘時需檢附他校同意書  
+**工作地點**：遠距或政大校內
+
+<div style="line-height:50%;"><br></div>
+
+**研究計畫主題：**
+
+本計畫探討政府在採購（外包）過程中，如何在「效率」與「公平」之間取得平衡。具體包含以下幾個議題：
+
+1. 政府採購行流程與規範對廠商投標意願、採購執行與標案成果之影響
+
+2. 身心障礙優先採購政策對採購公平與效率影響
+
+3. 採購委員會成員組成對評分結果及廠商得標之影響
+
+4. 公部門採購永續發展指標廠商或環保標章產品的決定因素
+
+這是結合公共行政、資料分析、社會公平、永續治理的跨領域研究！
+歡迎對政府採購、公私協力、社會公平、永續發展等議題有興趣的同學加入！
+
+------
+
+### 助理工作類型（可依能力興趣安排，無須全做）
+
+#### A. 行政助理
+
+**工作內容：**
+
+- 處理計畫相關採購、核銷事宜
+
+- 與校內外相關單位聯絡、文件寄送、借場地等行政事項  
+
+**條件：**
+
+- 熟悉 Microsoft Word、Excel
+
+- 中文口頭及書面溝通流暢
+
+<div style="line-height:50%;"><br></div>
+
+#### B. 文獻檢閱與資料搜集助理
+
+**工作內容：**
+
+- 搜集比較國內外文獻、政策、案例、統計資料等
+
+- 協助研究報告排版、校稿、格式調整等  
+
+**條件：**
+
+- 熟悉 Microsoft Word、Excel
+
+- 英文閱讀能力佳（不限中文能力）
+
+- 對任一子題具研究興趣
+
+<div style="line-height:50%;"><br></div>
+
+#### C. 資料整理與分析助理
+
+**工作內容：**
+
+- 使用統計軟體整理與分析研究資料
+
+- 視能力支援網路爬蟲資料蒐集  
+
+**條件：**
+
+- 熟悉任一統計軟體（R、Stata 或 Python）或願意學習
+
+- 具備基本中文閱讀能力（可用翻譯工具輔助）
+
+- 對大數據、文字探勘、網路爬蟲或任一子題感興趣
+
+------
+
+### 你可以得到：
+
+- 社會科學研究與資料分析訓練  
+
+- 政府採購政策領域知識  
+
+- 有助於未來求職、留學與升學  
+
+------
+
+### 應徵方式
+
+請 email 至：**ytsai@nccu.edu.tw**  
+信件主旨：「應徵研究助理－姓名」  
+
+請附上：
+
+1. 自我介紹（含年級、系所、研究或工作興趣）
+
+2. 擅長技能、語言能力、可投入時數
+
+3. 過去相關經驗（如有）
+
+4. 申請助理類型（A/B/C，可複選）
+
+5. 預計可開始工作日期
+
+<a name="English-Version"></a>
+
+審查後將通知面談／線上晤談。
+
+------
+
+<div style="line-height:80%;"><br></div>
+
+## Research Assistant Recruitment｜Government Procurement × Social Equity × Data Science
+
+Are you interested in exploring public policy using real-world data?
+
+Curious how governments spend billions on procurement every year?
+Interested in unlocking the black box of government contracting?
+
+Join Professor Yung-Yu Tsai’s research project at NCCU’s International College of Innovation!
+
+------
+
+**Number of Positions**: 2–3  
+**Salary**: NTD 8,000–12,000 per month (depending on experience, workload, and hours; salary adjustment based on performance)  
+**Eligibility**: Undergraduate or graduate students enrolled in a university; non-NCCU students must provide institutional approval form upon hiring  
+**Work Location**: Remote or on campus (National Chengchi University)
+
+<div style="line-height:50%;"><br></div>
+
+**Research Topics**
+
+This project investigates how governments balance efficiency and equity in the procurement (outsourcing) process.
+
+You will be exposed to several research topics, including:
+
+1. Effects of administrative measures in government procurement on bidding incentives, implementation processes, and outcomes
+
+2. Impact of preferred procurement policies for shelter workshops and disability-serving organization on fairness and efficiency
+
+3. Influence of procurement committee composition on evaluation results and awardees
+
+4. Factors affecting public agencies' procurement of sustainable suppliers or environmentally certified products
+
+These topics connect public administration, data analysis, social equity, and sustainability---all of which are hot and growing research areas in international public policy scholarship.
+Students interested in government procurement, public-private collaboration, social equity, and sustainability are welcome!
+
+------
+
+### Types of RA Roles (Assigned based on ability & interest)
+
+#### A. Administrative Assistant
+
+**Responsibilities:**
+
+- Handle procurement, reimbursement, and related paperwork
+
+- Contact relevant university/internal units, send documents, reserve meeting rooms  
+
+**Requirements:**
+
+- Proficiency in Microsoft Word & Excel
+
+- Strong Mandarin Chinese communication capability
+
+<div style="line-height:50%;"><br></div>
+
+#### B. Literature Review & Data Collection Assistant
+
+**Responsibilities:**
+
+- Collect, organize, and compare literature, policies, cases, and statistical data
+
+- Assist with typesetting, proofreading, formatting reports  
+
+**Requirements:**
+
+- Proficiency in Microsoft Word & Excel
+
+- Strong English reading ability (Chinese not required)
+
+- Interest in at least one project topic
+
+<div style="line-height:50%;"><br></div>
+
+#### C. Data Processing & Analysis Assistant
+
+**Responsibilities:**
+
+- Data cleaning and statistical analysis
+
+- Web scraping tasks (if interested/able)
+
+**Requirements:**
+
+- Familiarity with at least one statistical software (R, Stata, Python) or willingness to learn
+
+- Basic Chinese reading ability (translation tools allowed)
+
+- Interest in big data analytics, text mining, web scraping, or related topics
+
+------
+
+### What You Will Gain
+
+- Hands-on experience in social science research  
+
+- Skills in data analysis & policy evaluation  
+
+- Academic mentoring and career advice  
+
+- Strong advantage for graduate school or job applications  
+
+------
+
+### Application (English)
+
+Please email to **ytsai@nccu.edu.tw**  
+Subject line: **Application – Research Assistant – Your Name**
+
+Include:
+
+1. Self-introduction (department, year, interests)
+
+2. Skills, language proficiency, available work hours
+
+3. Relevant experience (if any)
+
+4. Preferred assistant type(s) (A/B/C)
+
+5. Available start date
+
+Shortlisted candidates will be contacted for an interview.
+
