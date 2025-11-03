@@ -26,7 +26,8 @@ pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
 **徵求人數**：2–3名  
 **薪資**：每月 8,000–12,000 元（依經歷、工作內容與時數調整；可選擇「學習型助理」或「勞動型助理」；後續視工作表現調整）  
 **任用資格**：大學部或研究所在學學生；非政大學生報聘時需檢附他校同意書  
-**工作地點**：遠距或政大校內
+**工作地點**：遠距或政大校內  
+**工作時間**：約每週8--10小時；可彈性安排
 
 <div style="line-height:50%;"><br></div>
 
@@ -34,7 +35,7 @@ pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
 
 本計畫探討政府在採購（外包）過程中，如何在「效率」與「公平」之間取得平衡。具體包含以下幾個議題：
 
-1. 政府採購行流程與規範對廠商投標意願、採購執行與標案成果之影響
+1. 政府採購行政流程與規範對廠商投標意願、採購執行與標案成果之影響
 
 2. 身心障礙優先採購政策對採購公平與效率影響
 
@@ -55,7 +56,7 @@ pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
 
 - 處理計畫相關採購、核銷事宜
 
-- 與校內外相關單位聯絡、文件寄送、借場地等行政事項  
+- 與校內外相關單位聯絡、文件寄送、申請程序等行政事項  
 
 **條件：**
 
@@ -75,11 +76,11 @@ pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
 
 **條件：**
 
-- 熟悉 Microsoft Word、Excel
+- 熟悉 Microsoft Word（或Latex, Overleaf）、Excel
 
 - 英文閱讀能力佳（不限中文能力）
 
-- 對任一子題具研究興趣
+- 對研究計畫任一子題有興趣
 
 <div style="line-height:50%;"><br></div>
 
@@ -97,7 +98,8 @@ pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
 
 - 具備基本中文閱讀能力（可用翻譯工具輔助）
 
-- 對大數據、文字探勘、網路爬蟲或任一子題感興趣
+- 對大數據、文字探勘、機器學習、網路爬蟲或研究計畫任一子題有興趣
+
 
 ------
 
@@ -107,7 +109,7 @@ pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
 
 - 政府採購政策領域知識  
 
-- 有助於未來求職、留學與升學  
+- 有助於未來求職、留學與升學 
 
 ------
 
@@ -130,7 +132,7 @@ pagetitle: Research Assistant Recruitment (Yung-Yu Tsai)
 
 <a name="English-Version"></a>
 
-審查後將通知面談／線上晤談。
+申請將採隨到隨審。審查後將通知面談／線上晤談。
 
 ------
 
@@ -150,7 +152,8 @@ Join Professor Yung-Yu Tsai’s research project at NCCU’s International Colle
 **Number of Positions**: 2–3  
 **Salary**: NTD 8,000–12,000 per month (depending on experience, workload, and hours; salary adjustment based on performance)  
 **Eligibility**: Undergraduate or graduate students enrolled in a university; non-NCCU students must provide institutional approval form upon hiring  
-**Work Location**: Remote or on campus (National Chengchi University)
+**Work Location**: Remote or on campus (National Chengchi University)  
+**Work Time**: 8-10 hours/week; flexible
 
 <div style="line-height:50%;"><br></div>
 
@@ -256,5 +259,5 @@ Include:
 
 5. Available start date
 
-Shortlisted candidates will be contacted for an interview.
+The review will be based on a rolling base. Shortlisted candidates will be contacted for an interview.
 
