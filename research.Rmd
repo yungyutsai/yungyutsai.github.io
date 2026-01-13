@@ -9,8 +9,19 @@ pagetitle: Yung-Yu Tsai
 }
 </style>
 
-### Peer-reviewed Publications
+### Funded Research
 
+* Balancing Equity and Efficiency in Government Contracting: Perspectives from Administrative Burdens, Affirmative Action, and Representative Bureaucracy (政府委外中公平與效率之權衡：行政負擔、優惠性差別待遇、代表性官僚之觀點) _National Science and Technology Council (NSTC) Research Grant 國家科學及技術委員會計畫 (NSTC 114-2410-H-004-186-MY2)_ <details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Under the rise of New Public Management, government outsourcing has expanded worldwide to improve efficiency, yet concerns persist that it may undermine other public values. Responding to the New Public Administration’s emphasis on social equity, many governments now pursue equity through procurement policies such as support programs, preferential treatment, and affirmative measures for disadvantaged and underrepresented firms. This study examines whether such efforts create an equity–efficiency trade-off. Using Taiwan’s Government e-Procurement data, the research analyzes three approaches: reducing administrative burdens, implementing affirmative action, and increasing representativeness in evaluation committees. Employing fixed effects, regression discontinuity, difference-in-differences, and instrumental variables, the study assesses how each approach affects equitable competition and procurement efficiency. The findings advance public administration theory on value trade-offs and offer practical guidance for designing procurement systems that better balance equity and efficiency.</font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
+* A Study on the Effectiveness Evaluation of the Social Safety Net Program and the Establishment of Medium- and Long-Term Monitoring Indicators 衛生福利部社會及家庭署強化社會安全網計畫成效評估及建立中長期觀察評估指標案 _Commissioned Research Project, Ministry of Health and Welfare 衛生福利部委託研究計畫_ (with Don-Yun Chen 陳敦源, Guang-Xu Wang 王光旭, Yi-Chun Liu 劉宜君, Chien-Chia Liu 劉千嘉, Yang-Chung Chen 陳揚中, Yung-Yu Tsai 蔡咏諭)
+
+------
+
+### Peer-reviewed Publications
 
 * Tsai, Yung-Yu, Han, Hsing-Wen, Lo, Kuang-Ta & Yang, Tzu-Ting. The effect of financial resources on fertility: Evidence from administrative data on lottery winners. _Journal of Labor Economics, forthcoming_. (accepted, in-press). [<a href = "https://doi.org/10.7910/DVN/SE6KFO" target="_blank">Data and Codes</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
