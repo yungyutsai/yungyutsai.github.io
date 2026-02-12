@@ -17,7 +17,7 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* A Study on the Effectiveness Evaluation of the Social Safety Net Program and the Establishment of Medium- and Long-Term Monitoring Indicators 衛生福利部社會及家庭署強化社會安全網計畫成效評估及建立中長期觀察評估指標案 _Commissioned Research Project, Ministry of Health and Welfare 衛生福利部委託研究計畫_ (with Don-Yun Chen 陳敦源, Guang-Xu Wang 王光旭, Yi-Chun Liu 劉宜君, Chien-Chia Liu 劉千嘉, Yang-Chung Chen 陳揚中, Yung-Yu Tsai 蔡咏諭)
+* A Study on the Effectiveness Evaluation of the Social Safety Net Program and the Establishment of Medium- and Long-Term Monitoring Indicators 衛生福利部社會及家庭署強化社會安全網計畫成效評估及建立中長期觀察評估指標案 _Commissioned Research Project, Ministry of Health and Welfare 衛生福利部委託研究計畫_ (with Don-Yun Chen 陳敦源, Guang-Xu Wang 王光旭, Yi-Chun Liu 劉宜君, Chien-Chia Liu 劉千嘉, Yang-Chung Chen 陳揚中)
 
 ------
 
@@ -74,13 +74,6 @@ pagetitle: Yung-Yu Tsai
 
 ### Working Papers
 
-* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. _(Revision Request from Educational Evaluation and Policy Analysis)_ 
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a net investment income tax on select wealthy nonprofit colleges. This study examines institutional responses and their impact on educational access. Findings suggest that taxed colleges raised tuition, transferring the burden to students and reducing access for historically underserved groups. However, some colleges strategically increased enrollment to circumvent the tax threshold, creating more educational opportunities. These contrasting responses highlight how policy design significantly influences institutional reactions to taxation. While the tax aimed to address wealth concentration in higher education, its implementation produced mixed results — in some cases undermining educational access while in others expanding it. The findings demonstrate how tax policy can guide institutional behavior toward socially beneficial outcomes. </font size></div>
-</details
-
-<div style="line-height:50%;"><br></div>
-
 * Tsai, Yung-Yu, Fu, Kai-Jo, & Keiser, Lael. The relationship between same-race subordinates and federal supervisors’ job satisfaction. _(Revision Request from Public Personnel Management)_ 
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The US federal government has been investing in workforce diversity, yet people of color remain underrepresented in leadership, creating challenges for supervisors of color. This study examines how same-race subordinates affect supervisors’ job satisfaction using federal employee data from 2020-2023. Results show an asymmetric effect: while White supervisors benefit from more same-race subordinates, supervisors of color experience decreased job satisfaction. This negative effect diminishes as minority representation in leadership increases, becoming positive when they exceed 35% of supervisors. Role clarity and supervisor relationships mediate these effects, suggesting supervisors of color face role conflict between organizational norms and community expectations. The findings highlight the burden of representation faced by minority supervisors and the importance of achieving critical mass in leadership positions. </font size></div>
@@ -100,7 +93,15 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu, Keiser, Lael, \& Jabbari, Niki. Understanding AI adoption in local government: Capacity constraints or political caution? _(Under Review)_ 
+
+* Tsai, Yung-Yu. Colleges' responses to the Net Investment Income Tax and the impact on education opportunities. 
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a net investment income tax on select wealthy nonprofit colleges. This study examines institutional responses and their impact on educational access. Findings suggest that taxed colleges raised tuition, transferring the burden to students and reducing access for historically underserved groups. However, some colleges strategically increased enrollment to circumvent the tax threshold, creating more educational opportunities. These contrasting responses highlight how policy design significantly influences institutional reactions to taxation. While the tax aimed to address wealth concentration in higher education, its implementation produced mixed results — in some cases undermining educational access while in others expanding it. The findings demonstrate how tax policy can guide institutional behavior toward socially beneficial outcomes. </font size></div>
+</details
+
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu, Keiser, Lael, \& Jabbari, Niki. Understanding AI adoption in local government: Capacity constraints or political caution? 
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Artificial Intelligence (AI) has been widely adopted in government and public service but whether and to what extent governments adopt AI varies. A key question is whether variation in AI adoption across local governments stems from capacity constraints or political preferences. This matters for knowing which kinds of policies would be most successful in making sure that local governments have access to the technologies that they want and need. This paper combines data from the International City/County Management Association (ICMA) Survey, American Trends Panel (ATP), the Current Population Survey (CPS), and other public data sources to examine how capacity and political factors influence local government AI adoption in the United States. Using logistic and Poisson regression models, we find that citizens’ attitudes toward AI, public employee unionization, local governments’ financial capacity, and infrastructure support are all key determinants of AI adoption. Notably, political factors (citizens’ attitudes and employees’ resistance) are equally influential as capacity factors in explaining government AI adoption, and in some cases, more powerful. These findings suggest that variation in AI adoption across local governments results not only from capacity barriers but also from political preferences, highlighting the role of democratic processes in technology adoption decisions. </font size></div>
 </details>
