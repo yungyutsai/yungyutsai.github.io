@@ -290,63 +290,83 @@ $(document).ready(function () {
 </div>
 
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
 <style>
-  body{
-  font-size: 12pt;
-}
+  body {
+    font-size: 12pt;
+  }
+
+  /* ── Navigation panel ── */
+  .research-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #fafaf8;
+    border-bottom: 1px solid #d6cfc4;
+    padding: 0;
+    margin-bottom: 2em;
+  }
+
+  .research-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .research-nav li {
+    margin: 0;
+  }
+
+  .research-nav a {
+    display: block;
+    padding: 0.65em 1em;
+    font-size: 12pt;
+    font-weight: normal;
+    font-family: inherit;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #555;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s, border-color 0.2s;
+  }
+
+  .research-nav a:hover {
+    color: #1a1a1a;
+    border-bottom-color: #1a1a1a;
+  }
+
+  /* section anchors need a small offset so the sticky nav doesn't overlap headings */
+  .section-anchor {
+    display: block;
+    height: 60px;
+    margin-top: -60px;
+    visibility: hidden;
+    pointer-events: none;
+  }
 </style>
-<div id="funded-research" class="section level3">
-<h3>Funded Research</h3>
+<!-- Navigation panel -->
+<nav class="research-nav">
 <ul>
-<li>Balancing Equity and Efficiency in Government Contracting:
-Perspectives from Administrative Burdens, Affirmative Action, and
-Representative Bureaucracy
-(政府委外中公平與效率之權衡：行政負擔、優惠性差別待遇、代表性官僚之觀點)
-<em>National Science and Technology Council (NSTC) Research Grant
-國家科學及技術委員會計畫 (NSTC 114-2410-H-004-186-MY2)</em>
-<details>
-<summary>
-<font size=2>Abstract</font size>
-</summary>
-<blockquote>
-<div style="line-height:100%;">
-<font size=2> Under the rise of New Public Management, government
-outsourcing has expanded worldwide to improve efficiency, yet concerns
-persist that it may undermine other public values. Responding to the New
-Public Administration’s emphasis on social equity, many governments now
-pursue equity through procurement policies such as support programs,
-preferential treatment, and affirmative measures for disadvantaged and
-underrepresented firms. This study examines whether such efforts create
-an equity–efficiency trade-off. Using Taiwan’s Government e-Procurement
-data, the research analyzes three approaches: reducing administrative
-burdens, implementing affirmative action, and increasing
-representativeness in evaluation committees. Employing fixed effects,
-regression discontinuity, difference-in-differences, and instrumental
-variables, the study assesses how each approach affects equitable
-competition and procurement efficiency. The findings advance public
-administration theory on value trade-offs and offer practical guidance
-for designing procurement systems that better balance equity and
-efficiency.</font size>
-</div>
-</blockquote>
-</details></li>
+<li>
+<a href="#peer-reviewed">Publications</a>
+</li>
+<li>
+<a href="#working-papers">Working Papers</a>
+</li>
+<li>
+<a href="#works-in-progress">Works in Progress</a>
+</li>
+<li>
+<a href="#funded-research">Funded Research</a>
+</li>
 </ul>
-<div style="line-height:50%;">
-<br>
-</div>
-<ul>
-<li>A Study on the Effectiveness Evaluation of the Social Safety Net
-Program and the Establishment of Medium- and Long-Term Monitoring
-Indicators
-衛生福利部社會及家庭署強化社會安全網計畫成效評估及建立中長期觀察評估指標案
-<em>Commissioned Research Project, Ministry of Health and Welfare
-衛生福利部委託研究計畫</em> (with Don-Yun Chen 陳敦源, Guang-Xu Wang
-王光旭, Yi-Chun Liu 劉宜君, Chien-Chia Liu 劉千嘉, Yang-Chung Chen
-陳揚中)</li>
-</ul>
-<hr />
-</div>
+</nav>
+<!-- ══════════════════════════════════════════════════════ -->
+<p><span id="peer-reviewed" class="section-anchor"></span></p>
 <div id="peer-reviewed-publications" class="section level3">
 <h3>Peer-reviewed Publications</h3>
 <ul>
@@ -647,6 +667,8 @@ to improve the fairness of art funding allocation in the future.
 </details></li>
 </ul>
 <hr />
+<!-- ══════════════════════════════════════════════════════ -->
+<p><span id="working-papers" class="section-anchor"></span></p>
 </div>
 <div id="working-papers" class="section level3">
 <h3>Working Papers</h3>
@@ -750,8 +772,8 @@ reduced access to these selective institutions. These findings highlight
 how institutional responses to government taxation can redistribute
 costs in ways that raise concerns about educational equity. </font size>
 </div>
-<p>&lt;/details</p>
-</blockquote></li>
+</blockquote>
+</details></li>
 </ul>
 <div style="line-height:50%;">
 <br>
@@ -791,7 +813,48 @@ decisions. </font size>
 </blockquote>
 </details></li>
 </ul>
+<div style="line-height:50%;">
+<br>
+</div>
+<ul>
+<li>Hung, Wan-Ju &amp; Tsai, Yung-Yu. State actions and market
+governance: How administrative requirements shape competition in
+government contracting.
+<details>
+<summary>
+<font size=2>Abstract</font size>
+</summary>
+<blockquote>
+<div style="line-height:100%;">
+<font size=2> Competition is central to government contracting. While
+public administration studies have examined how competition affects
+contracting outcomes, less attention has been paid to what explains
+competition in government markets. Transaction cost theory suggests that
+the characteristics of contracted work shape the level of competition
+and highlights managers’ efforts to address noncompetitive markets.
+However, this perspective often treats competition as a market condition
+to be managed, rather than as an outcome that may be shaped by
+governments’ own design choices. This study contributes to research on
+what shapes competition in contracting by focusing on the role of
+administrative requirements for bidding. Drawing on administrative
+burden research, which highlights that requirements can discourage
+initial participation and lead to applicant drop-off during the process,
+we expect bidding requirements to be associated with fewer bid
+submissions and fewer submissions that remain eligible for
+consideration. Using Poisson regressions to analyze 79,968 contracts and
+184,550 bids from Taiwan’s e-procurement system, we find evidence that
+stricter administrative requirements reduce competition, both in terms
+of participation and bid attrition. The findings contribute to
+contracting research by demonstrating that state actions are important
+for market governance and provide insights for enhancing market
+competition. </font size>
+</div>
+</blockquote>
+</details></li>
+</ul>
 <hr />
+<!-- ══════════════════════════════════════════════════════ -->
+<p><span id="works-in-progress" class="section-anchor"></span></p>
 </div>
 <div id="works-in-progress" class="section level3">
 <h3>Works in Progress</h3>
@@ -865,41 +928,8 @@ more prestigious colleges. </font size>
 <br>
 </div>
 <ul>
-<li>Hung, Wan-Ju &amp; Tsai, Yung-Yu. State actions and market
-competition: how administrative requirements at bidding stage shape
-competition in government contracting.
-<details>
-<summary>
-<font size=2>Abstract</font size>
-</summary>
-<blockquote>
-<div style="line-height:100%;">
-<font size=2> Market competition is a fundamental justification for
-government contracting, yet competitive environments are often difficult
-to achieve in practice. This study examines how state-imposed
-administrative burdens affect competition in government contracting and
-whether extending solicitation durations can mitigate these burdens.
-Analyzing 79,968 contracts and 184,550 bids from Taiwan’s e-procurement
-system, we find that both learning costs (measured by bidding
-instruction length) and compliance costs (measured by document
-requirements and deposit mandates) significantly reduce market
-competition. Importantly, longer solicitation periods partially offset
-the negative effect of documents and deposit requirements, though they
-do not mitigate the negative impact of lengthy bidding instructions. Our
-findings contribute to contracting literature by applying an
-administrative burden framework to business-government interactions and
-offer practical strategies for procurement officials seeking to enhance
-market competition. </font size>
-</div>
-</blockquote>
-</details></li>
-</ul>
-<div style="line-height:50%;">
-<br>
-</div>
-<ul>
-<li>Tsai, Yung-Yu &amp; Hung, Wan-Ju. Examining equity–efficiency
-trade-offs in set-aside contracting: evidence from a natural experiment.
+<li>Tsai, Yung-Yu. Examining equity–efficiency trade-offs in set-aside
+contracting: evidence from a natural experiment.
 <details>
 <summary>
 <font size=2>Abstract</font size>
@@ -966,6 +996,13 @@ disproportionately for low-income households. </font size>
 <br>
 </div>
 <ul>
+<li>Hsu, Hung-Yi &amp; Tsai, Yung-Yu. Transparency begins at home:
+Evidence from US federal agencies.</li>
+</ul>
+<div style="line-height:50%;">
+<br>
+</div>
+<ul>
 <li>Voice under unequal power: How authoritarian and servant leadership
 shape gendered dynamics in the public sector? (with Fu, Kai-Jo &amp;
 Lai, Yi-Hsiu)</li>
@@ -978,9 +1015,59 @@ Lai, Yi-Hsiu)</li>
 administrative data on lottery winners. (with Huang, Hsuan-Hua, Han,
 Hsing-Wen, Lo, Kuang-Ta &amp; Yang, Tzu-Ting)</li>
 </ul>
+<hr />
+<!-- ══════════════════════════════════════════════════════ -->
+<p><span id="funded-research" class="section-anchor"></span></p>
+</div>
+<div id="funded-research" class="section level3">
+<h3>Funded Research</h3>
+<ul>
+<li>Balancing Equity and Efficiency in Government Contracting:
+Perspectives from Administrative Burdens, Affirmative Action, and
+Representative Bureaucracy
+(政府委外中公平與效率之權衡：行政負擔、優惠性差別待遇、代表性官僚之觀點)
+<em>National Science and Technology Council (NSTC) Research Grant
+國家科學及技術委員會計畫 (NSTC 114-2410-H-004-186-MY2)</em>
+<details>
+<summary>
+<font size=2>Abstract</font size>
+</summary>
+<blockquote>
 <div style="line-height:100%;">
+<font size=2> Under the rise of New Public Management, government
+outsourcing has expanded worldwide to improve efficiency, yet concerns
+persist that it may undermine other public values. Responding to the New
+Public Administration’s emphasis on social equity, many governments now
+pursue equity through procurement policies such as support programs,
+preferential treatment, and affirmative measures for disadvantaged and
+underrepresented firms. This study examines whether such efforts create
+an equity–efficiency trade-off. Using Taiwan’s Government e-Procurement
+data, the research analyzes three approaches: reducing administrative
+burdens, implementing affirmative action, and increasing
+representativeness in evaluation committees. Employing fixed effects,
+regression discontinuity, difference-in-differences, and instrumental
+variables, the study assesses how each approach affects equitable
+competition and procurement efficiency. The findings advance public
+administration theory on value trade-offs and offer practical guidance
+for designing procurement systems that better balance equity and
+efficiency.</font size>
+</div>
+</blockquote>
+</details></li>
+</ul>
+<div style="line-height:50%;">
 <br>
 </div>
+<ul>
+<li>A Study on the Effectiveness Evaluation of the Social Safety Net
+Program and the Establishment of Medium- and Long-Term Monitoring
+Indicators
+衛生福利部社會及家庭署強化社會安全網計畫成效評估及建立中長期觀察評估指標案
+<em>Commissioned Research Project, Ministry of Health and Welfare
+衛生福利部委託研究計畫</em> (with Don-Yun Chen 陳敦源, Guang-Xu Wang
+王光旭, Yi-Chun Liu 劉宜君, Chien-Chia Liu 劉千嘉, Yang-Chung Chen
+陳揚中)</li>
+</ul>
 </div>
 
 

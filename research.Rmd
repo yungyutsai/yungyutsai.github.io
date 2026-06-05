@@ -3,30 +3,84 @@ pagetitle: Yung-Yu Tsai
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+
+
 <style>
-  body{
-  font-size: 12pt;
-}
+  body {
+    font-size: 12pt;
+  }
+
+  /* ── Navigation panel ── */
+  .research-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #fafaf8;
+    border-bottom: 1px solid #d6cfc4;
+    padding: 0;
+    margin-bottom: 2em;
+  }
+
+  .research-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .research-nav li {
+    margin: 0;
+  }
+
+  .research-nav a {
+    display: block;
+    padding: 0.65em 1em;
+    font-size: 12pt;
+    font-weight: normal;
+    font-family: inherit;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #555;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s, border-color 0.2s;
+  }
+
+  .research-nav a:hover {
+    color: #1a1a1a;
+    border-bottom-color: #1a1a1a;
+  }
+
+  /* section anchors need a small offset so the sticky nav doesn't overlap headings */
+  .section-anchor {
+    display: block;
+    height: 60px;
+    margin-top: -60px;
+    visibility: hidden;
+    pointer-events: none;
+  }
 </style>
 
-### Funded Research
+<!-- Navigation panel -->
+<nav class="research-nav">
+  <ul>
+    <li><a href="#peer-reviewed">Publications</a></li>
+    <li><a href="#working-papers">Working Papers</a></li>
+    <li><a href="#works-in-progress">Works in Progress</a></li>
+    <li><a href="#funded-research">Funded Research</a></li>
+  </ul>
+</nav>
 
-* Balancing Equity and Efficiency in Government Contracting: Perspectives from Administrative Burdens, Affirmative Action, and Representative Bureaucracy (政府委外中公平與效率之權衡：行政負擔、優惠性差別待遇、代表性官僚之觀點) _National Science and Technology Council (NSTC) Research Grant 國家科學及技術委員會計畫 (NSTC 114-2410-H-004-186-MY2)_ <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> Under the rise of New Public Management, government outsourcing has expanded worldwide to improve efficiency, yet concerns persist that it may undermine other public values. Responding to the New Public Administration’s emphasis on social equity, many governments now pursue equity through procurement policies such as support programs, preferential treatment, and affirmative measures for disadvantaged and underrepresented firms. This study examines whether such efforts create an equity–efficiency trade-off. Using Taiwan’s Government e-Procurement data, the research analyzes three approaches: reducing administrative burdens, implementing affirmative action, and increasing representativeness in evaluation committees. Employing fixed effects, regression discontinuity, difference-in-differences, and instrumental variables, the study assesses how each approach affects equitable competition and procurement efficiency. The findings advance public administration theory on value trade-offs and offer practical guidance for designing procurement systems that better balance equity and efficiency.</font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
-
-* A Study on the Effectiveness Evaluation of the Social Safety Net Program and the Establishment of Medium- and Long-Term Monitoring Indicators 衛生福利部社會及家庭署強化社會安全網計畫成效評估及建立中長期觀察評估指標案 _Commissioned Research Project, Ministry of Health and Welfare 衛生福利部委託研究計畫_ (with Don-Yun Chen 陳敦源, Guang-Xu Wang 王光旭, Yi-Chun Liu 劉宜君, Chien-Chia Liu 劉千嘉, Yang-Chung Chen 陳揚中)
-
-------
+<!-- ══════════════════════════════════════════════════════ -->
+<span id="peer-reviewed" class="section-anchor"></span>
 
 ### Peer-reviewed Publications
 
-
-* Tsai, Yung-Yu, Fu, Kai-Jo, & Keiser, Lael (2026). Racially divergent patterns in the relationship between same-race subordinates and federal supervisors’ job satisfaction. _Public Personnel Management, forthcoming_. [<a href = "https://doi.org/10.1177/00910260261444392" target="_blank">Journal Article</a>] [<a href = "papers/BurdensOfSupervisors.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/Burden_of_Representation" target="_blank">Data and Codes</a>]
+* Tsai, Yung-Yu, Fu, Kai-Jo, & Keiser, Lael (2026). Racially divergent patterns in the relationship between same-race subordinates and federal supervisors' job satisfaction. _Public Personnel Management, forthcoming_. [<a href = "https://doi.org/10.1177/00910260261444392" target="_blank">Journal Article</a>] [<a href = "papers/BurdensOfSupervisors.pdf" target="_blank">Accepted Manuscript</a>] [<a href = "https://github.com/yungyutsai/Burden_of_Representation" target="_blank">Data and Codes</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> Despite substantial evidence on how supervisors’ racial composition influences employees’ work-related attitudes, little attention has been given to the reciprocal effects on supervisors themselves. This study examines how same-race subordinates affect supervisors’ job satisfaction, revealing a racially divergent pattern. Using federal employee data from 2020–2023, this paper finds that White supervisors experience increased job satisfaction when working in agencies with higher proportions of same-race subordinates, consistent with relational demography theory. In contrast, supervisors of color experience decreased job satisfaction under similar conditions, aligning with theoretical expectations regarding the burden of representation and tokenism theory. Mediation analysis demonstrates this negative effect operates through reduced role clarity and deteriorated supervisor relationships, implying that supervisors of color may face role conflicts between organizational norms and community expectations. However, this burden diminishes as minority representation in leadership increases, becoming positive when exceeding 44\% of supervisors. These findings reveal hidden costs borne by minority supervisors and identify when these costs transform into benefits. </font size></div>
+> <div style="line-height:100%;"><font size=2> Despite substantial evidence on how supervisors' racial composition influences employees' work-related attitudes, little attention has been given to the reciprocal effects on supervisors themselves. This study examines how same-race subordinates affect supervisors' job satisfaction, revealing a racially divergent pattern. Using federal employee data from 2020–2023, this paper finds that White supervisors experience increased job satisfaction when working in agencies with higher proportions of same-race subordinates, consistent with relational demography theory. In contrast, supervisors of color experience decreased job satisfaction under similar conditions, aligning with theoretical expectations regarding the burden of representation and tokenism theory. Mediation analysis demonstrates this negative effect operates through reduced role clarity and deteriorated supervisor relationships, implying that supervisors of color may face role conflicts between organizational norms and community expectations. However, this burden diminishes as minority representation in leadership increases, becoming positive when exceeding 44\% of supervisors. These findings reveal hidden costs borne by minority supervisors and identify when these costs transform into benefits. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
@@ -68,46 +122,59 @@ pagetitle: Yung-Yu Tsai
 
 * Tsai, Yung-Yu & Yang, Tzu-Ting (2022). Measuring voluntary responses in healthcare utilization during the COVID-19 pandemic: Evidence from Taiwan. _PLoS ONE, 17_ (12). e0271810. [<a href = "https://doi.org/10.1371/journal.pone.0271810" target="_blank">Journal Article</a>] [<a href = "https://github.com/yungyutsai/Taiwan_COVID19_Healthcare_Utilization" target="_blank">Data and Codes</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> Healthcare has been one of the most affected sectors during the coronavirus disease 2019 (COVID-19) pandemic. The utilization of related services for non-COVID-19 diseases fell dramatically following the point at which the virus broke out; however, little is known about whether this observed decline in healthcare use was due to voluntary behaviors or enforced measures. This paper quantifies the spontaneous change in healthcare utilization during the pandemic. We utilize a county-by-week-level dataset from Taiwan’s National Health Insurance (NHI) record, covering the entire Taiwanese population, and a difference-in-differences design. Our results indicate that even if there were no human mobility restrictions or supply-side constraints, people voluntarily reduced their demand for healthcare, due to fears of contagion, or COVID-related precautionary behaviors. We find that the number of outpatient visits (inpatient admissions) decreased by 19% (10%) during the pandemic period (February to May 2020). Furthermore, the demand response of healthcare for Influenza-like illness (ILI) was much greater and more persistent than for non-ILI, thereby suggesting that the substantial decline in accessing healthcare was induced by positive public health externality of prevention measures for COVID-19. Finally, we find that the demand for healthcare services did not get back to the pre-pandemic baseline, even when there were no local coronavirus cases for 253 consecutive days (mid-April to December 2020) in Taiwan. </font size></div>
+> <div style="line-height:100%;"><font size=2> Healthcare has been one of the most affected sectors during the coronavirus disease 2019 (COVID-19) pandemic. The utilization of related services for non-COVID-19 diseases fell dramatically following the point at which the virus broke out; however, little is known about whether this observed decline in healthcare use was due to voluntary behaviors or enforced measures. This paper quantifies the spontaneous change in healthcare utilization during the pandemic. We utilize a county-by-week-level dataset from Taiwan's National Health Insurance (NHI) record, covering the entire Taiwanese population, and a difference-in-differences design. Our results indicate that even if there were no human mobility restrictions or supply-side constraints, people voluntarily reduced their demand for healthcare, due to fears of contagion, or COVID-related precautionary behaviors. We find that the number of outpatient visits (inpatient admissions) decreased by 19% (10%) during the pandemic period (February to May 2020). Furthermore, the demand response of healthcare for Influenza-like illness (ILI) was much greater and more persistent than for non-ILI, thereby suggesting that the substantial decline in accessing healthcare was induced by positive public health externality of prevention measures for COVID-19. Finally, we find that the demand for healthcare services did not get back to the pre-pandemic baseline, even when there were no local coronavirus cases for 253 consecutive days (mid-April to December 2020) in Taiwan. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
 
 * Tsai, Yung-Yu (2018). Which fairness could arm's length principle bring? Evidence from art funding of MOC and NCAF. _Journal of Youth \& Public Governance, 1._ 1--24. [<a href = "https://drive.google.com/file/d/1EzRdrrql6QZP4a7Nfm0JBLwY3_PksYw8/view" target="_blank">Journal Article</a>] [<a href = "papers/art_funding.pdf" target="_blank">Accepted Manuscript</a>]
 <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> The arm’s length principle implies that intermediary cultural organization performs better on art funding allocation than the government or politicians. This paper uses data from the art funding list from 2015 to 2017 in Taiwan to examine whether The National Culture and Arts Foundation (NCAF, an intermediary cultural organization) distributes funding fairer than The Ministry of Culture (MOC). There are three different concepts of fairness: equity, equality, and need (distributing funding to those who need it). The result of this paper shows MOC and NCAF have no significant difference in equity, but NCAF indeed performs better on equality and need than MOC, although the effect isn’t as strong as we thought. Based on these findings, this paper suggests that the arm’s length principle really works, and it’s necessary for MOC to collaborate with NCAF. However, it’s also important to improve the fairness of art funding allocation in the future. </font size></div>
+> <div style="line-height:100%;"><font size=2> The arm's length principle implies that intermediary cultural organization performs better on art funding allocation than the government or politicians. This paper uses data from the art funding list from 2015 to 2017 in Taiwan to examine whether The National Culture and Arts Foundation (NCAF, an intermediary cultural organization) distributes funding fairer than The Ministry of Culture (MOC). There are three different concepts of fairness: equity, equality, and need (distributing funding to those who need it). The result of this paper shows MOC and NCAF have no significant difference in equity, but NCAF indeed performs better on equality and need than MOC, although the effect isn't as strong as we thought. Based on these findings, this paper suggests that the arm's length principle really works, and it's necessary for MOC to collaborate with NCAF. However, it's also important to improve the fairness of art funding allocation in the future. </font size></div>
 </details>
 
 ------
 
+<!-- ══════════════════════════════════════════════════════ -->
+<span id="working-papers" class="section-anchor"></span>
+
 ### Working Papers
 
-* Tsai, Yung-Yu. Does reducing ability tracking improve equity at the cost of student achievement? Evidence from Taiwan’s high school admission reform. _(Conditional Accepted by Journal of Social Sciences and Philosophy 人文及社會科學集刊)_ <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> This paper examines the trade-off between educational equity and student achievement by analyzing Taiwan's 2014 exam-free high school admission reform, which substantially reduced ability-based tracking. Using a difference-in-differences design comparing high school students exposed to the reform with unaffected middle school students, this paper finds that the reform increased within-school heterogeneity by 30 points (effect size = 0.86), evidence of a major weakening of ability-based sorting across schools. Consistent with the policy's equity objectives, low-performing students gained access to better schools, more qualified teachers, and higher-achieving peers. These equity gains, however, came at a clear cost: average performance declined by 50 points (0.18 standard deviations), with negative effects spread uniformly across the achievement distribution. A triple-difference design analysis yields consistent results. Overall, this study’s findings reveal a pronounced equity-achievement trade-off, showing that detracking can expand educational opportunity while reducing overall academic performance. </font size></div>
+* Tsai, Yung-Yu. Does reducing ability tracking improve equity at the cost of student achievement? Evidence from Taiwan's high school admission reform. _(Conditional Accepted by Journal of Social Sciences and Philosophy 人文及社會科學集刊)_ <details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> This paper examines the trade-off between educational equity and student achievement by analyzing Taiwan's 2014 exam-free high school admission reform, which substantially reduced ability-based tracking. Using a difference-in-differences design comparing high school students exposed to the reform with unaffected middle school students, this paper finds that the reform increased within-school heterogeneity by 30 points (effect size = 0.86), evidence of a major weakening of ability-based sorting across schools. Consistent with the policy's equity objectives, low-performing students gained access to better schools, more qualified teachers, and higher-achieving peers. These equity gains, however, came at a clear cost: average performance declined by 50 points (0.18 standard deviations), with negative effects spread uniformly across the achievement distribution. A triple-difference design analysis yields consistent results. Overall, this study's findings reveal a pronounced equity-achievement trade-off, showing that detracking can expand educational opportunity while reducing overall academic performance. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
 
-* Hung, Wan-Ju \& Tsai, Yung-Yu. Linking government contracting programs for social goals to public employees’ job satisfaction: Findings from the Federal Small Disadvantaged Business Contracting Program. _(Revision Request from International Public Management Journal)_ <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> While contracting out is often viewed as having negative consequences for public employees, less focus has been placed on understanding how it can also have positive outcomes for them. Recent scholarship proposes that contracting out may improve employees’ work attitudes when it emphasizes pro-social factors. Using the U.S. federal small, disadvantaged business (SDB) contracting program—which emphasizes diversity and equity in procurement—as an example, this study examines the relationship between contracting programs aimed at promoting social outcomes and public employees’ job satisfaction. Drawing insights from public administration research, we expect a positive relationship between the SDB contracting efforts and public employees’ satisfaction. The U.S. federal government procurement data and the Federal Employee Viewpoint Survey (FEVS) were used for analysis. The results show that increased SDB contracting is associated with enhanced job satisfaction. In addition, employees of underrepresented backgrounds experience a more pronounced increase in satisfaction linked to SDB contracting initiatives. The implications of the findings for government contracting and public human resource management are discussed. </font size></div>
+* Hung, Wan-Ju \& Tsai, Yung-Yu. Linking government contracting programs for social goals to public employees' job satisfaction: Findings from the Federal Small Disadvantaged Business Contracting Program. _(Revision Request from International Public Management Journal)_ <details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> While contracting out is often viewed as having negative consequences for public employees, less focus has been placed on understanding how it can also have positive outcomes for them. Recent scholarship proposes that contracting out may improve employees' work attitudes when it emphasizes pro-social factors. Using the U.S. federal small, disadvantaged business (SDB) contracting program—which emphasizes diversity and equity in procurement—as an example, this study examines the relationship between contracting programs aimed at promoting social outcomes and public employees' job satisfaction. Drawing insights from public administration research, we expect a positive relationship between the SDB contracting efforts and public employees' satisfaction. The U.S. federal government procurement data and the Federal Employee Viewpoint Survey (FEVS) were used for analysis. The results show that increased SDB contracting is associated with enhanced job satisfaction. In addition, employees of underrepresented backgrounds experience a more pronounced increase in satisfaction linked to SDB contracting initiatives. The implications of the findings for government contracting and public human resource management are discussed. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
-
 
 * Tsai, Yung-Yu. Who pays when the government taxes colleges? _(Under Review)_
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a 1.4% excise tax on the net investment income of select nonprofit colleges. Affected colleges warned that the tax would force them to cut educational spending and reduce financial aid to students. Using a triple‐difference design that exploits the policy's dual eligibility thresholds and drawing on IPEDS and IRS Form 990 data from 2010 to 2022, this paper finds that taxed colleges did not cut spending or financial aid. Instead, they raised tuition to pass the tax burden onto students and their families. Institutional financial aid did not keep pace with tuition increases, resulting in higher net attendance costs. The policy is also associated with an increase in enrollment among Pell Grant recipients and a decline among students who rely on Federal Student Loans, suggesting that the tuition increase is partially subsidized by the federal government through grants, while middle‐income students who neither qualify for grants nor can self‐finance their education may face reduced access to these selective institutions. These findings highlight how institutional responses to government taxation can redistribute costs in ways that raise concerns about educational equity. </font size></div>
-</details
+</details>
 
 <div style="line-height:50%;"><br></div>
 
 * Tsai, Yung-Yu, Keiser, Lael, \& Jabbari, Niki. Understanding AI adoption in local government: Capacity constraints or political caution? _(Under Review)_
 <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> Artificial Intelligence (AI) has been widely adopted in government and public service but whether and to what extent governments adopt AI varies. A key question is whether variation in AI adoption across local governments stems from capacity constraints or political preferences. This matters for knowing which kinds of policies would be most successful in making sure that local governments have access to the technologies that they want and need. This paper combines data from the International City/County Management Association (ICMA) Survey, American Trends Panel (ATP), the Current Population Survey (CPS), and other public data sources to examine how capacity and political factors influence local government AI adoption in the United States. Using logistic and Poisson regression models, we find that citizens’ attitudes toward AI, public employee unionization, local governments’ financial capacity, and infrastructure support are all key determinants of AI adoption. Notably, political factors (citizens’ attitudes and employees’ resistance) are equally influential as capacity factors in explaining government AI adoption, and in some cases, more powerful. These findings suggest that variation in AI adoption across local governments results not only from capacity barriers but also from political preferences, highlighting the role of democratic processes in technology adoption decisions. </font size></div>
+> <div style="line-height:100%;"><font size=2> Artificial Intelligence (AI) has been widely adopted in government and public service but whether and to what extent governments adopt AI varies. A key question is whether variation in AI adoption across local governments stems from capacity constraints or political preferences. This matters for knowing which kinds of policies would be most successful in making sure that local governments have access to the technologies that they want and need. This paper combines data from the International City/County Management Association (ICMA) Survey, American Trends Panel (ATP), the Current Population Survey (CPS), and other public data sources to examine how capacity and political factors influence local government AI adoption in the United States. Using logistic and Poisson regression models, we find that citizens' attitudes toward AI, public employee unionization, local governments' financial capacity, and infrastructure support are all key determinants of AI adoption. Notably, political factors (citizens' attitudes and employees' resistance) are equally influential as capacity factors in explaining government AI adoption, and in some cases, more powerful. These findings suggest that variation in AI adoption across local governments results not only from capacity barriers but also from political preferences, highlighting the role of democratic processes in technology adoption decisions. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
+* Hung, Wan-Ju \& Tsai, Yung-Yu. State actions and market governance: How administrative requirements shape competition in government contracting.
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Competition is central to government contracting. While public administration studies have examined how competition affects contracting outcomes, less attention has been paid to what explains competition in government markets. Transaction cost theory suggests that the characteristics of contracted work shape the level of competition and highlights managers' efforts to address noncompetitive markets. However, this perspective often treats competition as a market condition to be managed, rather than as an outcome that may be shaped by governments' own design choices. This study contributes to research on what shapes competition in contracting by focusing on the role of administrative requirements for bidding. Drawing on administrative burden research, which highlights that requirements can discourage initial participation and lead to applicant drop-off during the process, we expect bidding requirements to be associated with fewer bid submissions and fewer submissions that remain eligible for consideration. Using Poisson regressions to analyze 79,968 contracts and 184,550 bids from Taiwan's e-procurement system, we find evidence that stricter administrative requirements reduce competition, both in terms of participation and bid attrition. The findings contribute to contracting research by demonstrating that state actions are important for market governance and provide insights for enhancing market competition.
+ </font size></div>
 </details>
 
 ------
+
+<!-- ══════════════════════════════════════════════════════ -->
+<span id="works-in-progress" class="section-anchor"></span>
 
 ### Works in Progress
 
@@ -120,20 +187,12 @@ pagetitle: Yung-Yu Tsai
 
 * Tsai, Yung-Yu & Yang, Tzu-Ting. The impact of on-campus residence on students' academic and labor market outcomes---Evidence from boundary discontinuity design.
 <details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> This study investigates the influence of residing in student dormitories on short and long-term student outcomes within the context of Taiwan. This research examines the causal effects of on-campus residency by utilizing colleges’ dormitory assignment policy based on students’ residential locations and employing a boundary-based regression discontinuity design. The study incorporates a two-way fixed effect model, including both college and village fixed effects, to account for potential geographical self-selection biases. The findings reveal that on-campus living doesn’t significantly impact persistence, but it does enhance the likelihood of pursuing graduate education, primarily influenced by enrolling in the same college for undergraduate studies. This positive effect can be attributed to two intermediate outcomes: an increase in on-campus employment, indicative of greater on-campus engagement, and a higher likelihood of receiving awards from contests or competitions, suggesting increased participation in extracurricular activities. The impact is more pronounced among students from low-income families, those without siblings, and those attending more prestigious colleges. </font size></div>
+> <div style="line-height:100%;"><font size=2> This study investigates the influence of residing in student dormitories on short and long-term student outcomes within the context of Taiwan. This research examines the causal effects of on-campus residency by utilizing colleges' dormitory assignment policy based on students' residential locations and employing a boundary-based regression discontinuity design. The study incorporates a two-way fixed effect model, including both college and village fixed effects, to account for potential geographical self-selection biases. The findings reveal that on-campus living doesn't significantly impact persistence, but it does enhance the likelihood of pursuing graduate education, primarily influenced by enrolling in the same college for undergraduate studies. This positive effect can be attributed to two intermediate outcomes: an increase in on-campus employment, indicative of greater on-campus engagement, and a higher likelihood of receiving awards from contests or competitions, suggesting increased participation in extracurricular activities. The impact is more pronounced among students from low-income families, those without siblings, and those attending more prestigious colleges. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
 
-* Hung, Wan-Ju \& Tsai, Yung-Yu. State actions and market competition: how administrative requirements at bidding stage shape competition in government contracting.
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> Market competition is a fundamental justification for government contracting, yet competitive environments are often difficult to achieve in practice. This study examines how state-imposed administrative burdens affect competition in government contracting and whether extending solicitation durations can mitigate these burdens. Analyzing 79,968 contracts and 184,550 bids from Taiwan’s e-procurement system, we find that both learning costs (measured by bidding instruction length) and compliance costs (measured by document requirements and deposit mandates) significantly reduce market competition. Importantly, longer solicitation periods partially offset the negative effect of documents and deposit requirements, though they do not mitigate the negative impact of lengthy bidding instructions. Our findings contribute to contracting literature by applying an administrative burden framework to business-government interactions and offer practical strategies for procurement officials seeking to enhance market competition.
- </font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
-
-* Tsai, Yung-Yu \& Hung, Wan-Ju. Examining equity–efficiency trade-offs in set-aside contracting: evidence from a natural experiment.
+* Tsai, Yung-Yu. Examining equity–efficiency trade-offs in set-aside contracting: evidence from a natural experiment.
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Government contracting is often used not only to promote market efficiency but also to advance equity goals, such as expanding opportunities for disadvantaged firms. This paper examines whether equity-oriented set-aside policies undermine efficiency or contracting performance. We study a policy in Taiwan requiring government contracts below NT\$1.5 million in certain categories to prioritize sheltered workshops and organizations serving people with disabilities, while contracts above the threshold are not subject to this requirement. Using a difference-in-discontinuity design that compares contracts just below and above the threshold within and outside the regulated categories, we estimate the causal effects of the set-aside policy. The results show that the policy increases the number of disabled bidders by about 20\% and raises their probability of winning contracts by roughly 60\%, without reducing participation from non-disabled firms. In addition, contracts subject to the policy do not exhibit higher final prices, suggesting that expanding access for disadvantaged firms does not come at the expense of efficiency. </font size></div>
 </details>
@@ -146,10 +205,27 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
+* Hsu, Hung-Yi \& Tsai, Yung-Yu. Transparency begins at home: Evidence from US federal agencies.
+
+<div style="line-height:50%;"><br></div>
+
 * Voice under unequal power: How authoritarian and servant leadership shape gendered dynamics in the public sector? (with Fu, Kai-Jo \& Lai, Yi-Hsiu)
 
 <div style="line-height:50%;"><br></div>
 
 * The effect of cash windfalls on charity giving: Evidence from administrative data on lottery winners. (with Huang, Hsuan-Hua, Han, Hsing-Wen, Lo, Kuang-Ta \& Yang, Tzu-Ting)
 
-<div style="line-height:100%;"><br></div>
+------
+
+<!-- ══════════════════════════════════════════════════════ -->
+<span id="funded-research" class="section-anchor"></span>
+
+### Funded Research
+
+* Balancing Equity and Efficiency in Government Contracting: Perspectives from Administrative Burdens, Affirmative Action, and Representative Bureaucracy (政府委外中公平與效率之權衡：行政負擔、優惠性差別待遇、代表性官僚之觀點) _National Science and Technology Council (NSTC) Research Grant 國家科學及技術委員會計畫 (NSTC 114-2410-H-004-186-MY2)_ <details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Under the rise of New Public Management, government outsourcing has expanded worldwide to improve efficiency, yet concerns persist that it may undermine other public values. Responding to the New Public Administration's emphasis on social equity, many governments now pursue equity through procurement policies such as support programs, preferential treatment, and affirmative measures for disadvantaged and underrepresented firms. This study examines whether such efforts create an equity–efficiency trade-off. Using Taiwan's Government e-Procurement data, the research analyzes three approaches: reducing administrative burdens, implementing affirmative action, and increasing representativeness in evaluation committees. Employing fixed effects, regression discontinuity, difference-in-differences, and instrumental variables, the study assesses how each approach affects equitable competition and procurement efficiency. The findings advance public administration theory on value trade-offs and offer practical guidance for designing procurement systems that better balance equity and efficiency.</font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
+* A Study on the Effectiveness Evaluation of the Social Safety Net Program and the Establishment of Medium- and Long-Term Monitoring Indicators 衛生福利部社會及家庭署強化社會安全網計畫成效評估及建立中長期觀察評估指標案 _Commissioned Research Project, Ministry of Health and Welfare 衛生福利部委託研究計畫_ (with Don-Yun Chen 陳敦源, Guang-Xu Wang 王光旭, Yi-Chun Liu 劉宜君, Chien-Chia Liu 劉千嘉, Yang-Chung Chen 陳揚中)
