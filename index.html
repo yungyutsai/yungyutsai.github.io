@@ -295,6 +295,30 @@ $(document).ready(function () {
   body{
   font-size: 12pt;
 }
+.lang-tabs {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+}
+.lang-tabs button {
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  color: #777;
+}
+.lang-tabs button.active {
+  color: #2c3e50;
+  border-bottom: 3px solid #2c3e50;
+  font-weight: bold;
+}
+.lang-content {
+  display: none;
+}
+.lang-content.active {
+  display: block;
+}
 </style>
 <p><img src="images/yungyutsai.png" style="width:32%; border:0px solid; margin-right: 50px; margin-top: 20px" align="left">
 <!--
@@ -302,6 +326,11 @@ $(document).ready(function () {
 src="https://www.youtube.com/embed/-26g5lJaFhE">
 </iframe>
 --></p>
+<div class="lang-tabs">
+<p><button id="tab-en" class="active" onclick="switchLang('en')">English</button>
+<button id="tab-zh" onclick="switchLang('zh')">中文</button></p>
+</div>
+<div id="content-en" class="lang-content active">
 <p>I am an assistant professor at the
 <a href="https://ici.nccu.edu.tw" target="_blank">International College
 of Innovation</a> at the National Chengchi University
@@ -343,6 +372,32 @@ Congress of Taiwan.</p>
 <a href = "files/CV_YungYuTsai.pdf" target="_blank">here</a>.</p>
 <p>Contact: <a href="mailto:ytsai@nccu.edu.tw"
 class="email">ytsai@nccu.edu.tw</a></p>
+</div>
+<div id="content-zh" class="lang-content">
+<p>我目前任職於國立政治大學<a href="https://ici.nccu.edu.tw" target="_blank">創新國際學院</a>（International
+College of Innovation）擔任助理教授。</p>
+<p>我的研究關注政府如何運用政策工具建構更公平、良善、宜居的社會。我的研究探討：這些政策必須付出什麼代價、誰承擔了成本，以及政策是否真正達成預期效果。作為一位橫跨公共經濟學、教育政策與公共行政領域的實證公共政策學者，我的就具體深耕四個核心主題：(1)
+教育與機會均等；(2) 租稅公平與居住正義；(3)
+家庭如何因應財富與所得的突發變化；以及 (4) 政府內部的管理與治理。</p>
+<p>我近期的研究包含：<a href="https://doi.org/10.53106/1018189X202603001" target="_blank">以公平為導向的入學改革改革是否犧牲了學生的學業成就</a>；房產稅實價課稅在追求租稅公平的同時是否犧牲了居住正義；<a href="https://doi.org/10.1177/00910260261444392" target="_blank">晉升少數群體至領導職位是否為少數群體主管帶來隱藏的負擔</a>；以及<a href="https://www.journals.uchicago.edu/doi/10.1086/742939" target="_blank">機會中獎帶來的意外之財如何改變婚姻與生育等家庭決策</a>。</p>
+<p>貫穿這些研究計畫的核心關懷是透過「循證治理」的取徑，釐清公平與效率何時衝突、何時又得以共榮，並探討公共政策能夠兼顧不同價值的機制。透過與政府機關合作，我將這些研究發現轉化為促進資源公平分配、提升公共機構問責的實務建議。</p>
+<p>我於2025年取得美國密蘇里大學杜魯門政府與公共事務學院（<a href="https://truman.missouri.edu" target="_blank">Harry
+S Truman School of Government and Public
+Affairs</a>）公共事務博士學位，並持有國立政治大學公共行政碩士（2019）與國立臺灣大學政治學系學士（2015）學位；在攻讀研究所之前，我曾任職於立法院。</p>
+<p>完整履歷（CV）請見<a href = "files/CV_YungYuTsai.pdf" target="_blank">此處</a>。</p>
+<p>聯絡方式：<a href="mailto:ytsai@nccu.edu.tw"
+class="email">ytsai@nccu.edu.tw</a></p>
+</div>
+<script>
+function switchLang(lang) {
+  document.getElementById('content-en').classList.remove('active');
+  document.getElementById('content-zh').classList.remove('active');
+  document.getElementById('tab-en').classList.remove('active');
+  document.getElementById('tab-zh').classList.remove('active');
+  document.getElementById('content-' + lang).classList.add('active');
+  document.getElementById('tab-' + lang).classList.add('active');
+}
+</script>
 
 
 
