@@ -146,7 +146,7 @@ pagetitle: Yung-Yu Tsai
 
 ### Working Papers
 
-* Hung, Wan-Ju \& Tsai, Yung-Yu. Linking government contracting programs for social goals to public employees' job satisfaction: Findings from the Federal Small Disadvantaged Business Contracting Program. _(Revision Request from International Public Management Journal)_ <details> <summary><font size=2>Abstract</font size></summary>
+* Hung, Wan-Ju \& Tsai, Yung-Yu. Linking government contracting programs for social goals to public employees' job satisfaction: Findings from the Federal Small Disadvantaged Business Contracting Program. _(Conditional Acceptance from International Public Management Journal)_ <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> While contracting out is often viewed as having negative consequences for public employees, less focus has been placed on understanding how it can also have positive outcomes for them. Recent scholarship proposes that contracting out may improve employees' work attitudes when it emphasizes pro-social factors. Using the U.S. federal small, disadvantaged business (SDB) contracting program—which emphasizes diversity and equity in procurement—as an example, this study examines the relationship between contracting programs aimed at promoting social outcomes and public employees' job satisfaction. Drawing insights from public administration research, we expect a positive relationship between the SDB contracting efforts and public employees' satisfaction. The U.S. federal government procurement data and the Federal Employee Viewpoint Survey (FEVS) were used for analysis. The results show that increased SDB contracting is associated with enhanced job satisfaction. In addition, employees of underrepresented backgrounds experience a more pronounced increase in satisfaction linked to SDB contracting initiatives. The implications of the findings for government contracting and public human resource management are discussed. </font size></div>
 </details>
 
@@ -211,6 +211,9 @@ pagetitle: Yung-Yu Tsai
 <div style="line-height:50%;"><br></div>
 
 * Voice under unequal power: How authoritarian and servant leadership shape gendered dynamics in the public sector? (with Fu, Kai-Jo \& Lai, Yi-Hsiu)
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> Studies demonstrated that employee voice improves organizational performance, yet employees are often reluctant to speak up. Prior work attributes this reluctance to workplace power structures and to leadership style, but rarely examines how the two operate together. Using an original survey of 811 street-level bureaucrats across 43 agencies in Taiwan, this paper finds that employees whose gender matches their supervisor’s are more willing to speak up, and that female employees under male supervisors exhibit the lowest levels of voice behavior, consistent with a power-structure account. We further find that authoritarian leadership is negatively associated with promotive voice but yields no significant relationship with prohibitive voice, while servant leadership is positively associated with both voice behaviors. Most importantly, the two leadership styles moderate the gender gap asymmetrically. Authoritarian leadership widens the existing unequal voice power among gender dynamics,  while servant leadership raises voice across all four dyads at approximately equal magnitude without closing the gender inequality gap. </font size></div>
+</details>
 
 <div style="line-height:50%;"><br></div>
 
