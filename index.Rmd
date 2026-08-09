@@ -49,11 +49,13 @@ src="https://www.youtube.com/embed/-26g5lJaFhE">
 
 I am an assistant professor at the <a href="https://ici.nccu.edu.tw" target="_blank">International College of Innovation</a> at the National Chengchi University (國立政治大學創新國際學院).
 
-I study what happens when governments use policy tools to build a fairer and better society: what has to be given up, who ends up bearing the cost, and whether these policies actually work as intended. As an empirical public policy scholar working at the intersection of public economics, education policy, and public administration, I pursue these questions across four connected areas: education and equality of opportunity; taxation and housing; how families respond to sudden changes in wealth and income; and how governments themselves are managed. 
+As an empirical public policy scholar, my research focuses on a set of core questions: when governments use policy tools to build a fairer, better, and more livable society, do those policies actually achieve what they set out to achieve, what has to be given up, and who ends up bearing the cost? A policy usually names who it intends to help and who it intends to charge, but the bill often lands somewhere else entirely, and frequently on the very people the policy was meant to protect. My work does not stop at identifying that gap: it asks why the gap arises, and whether institutional and policy design can close it.
 
-My recent work examines whether <a href="https://doi.org/10.53106/1018189X202603001" target="_blank">equity-based admission reforms come at the cost of student achievement</a>, whether taxing properties at their true market value improves tax fairness at the expense of housing affordability, whether <a href="https://doi.org/10.1177/00910260261444392" target="_blank">promoting minorities into leadership places hidden burdens on minority supervisors</a>, and how <a href="https://www.journals.uchicago.edu/doi/10.1086/742939" target="_blank">windfalls from lottery wins reshape family decisions such as marriage and childbearing</a>.
+I pursue these questions across four connected areas: (1) education and equality of opportunity; (2) tax fairness and housing justice; (3) how households respond to sudden changes in wealth and income, the behavioral responses that ultimately determine who absorbs a policy's cost; and (4) how government itself is managed and governed. Working in the tradition of evidence-based governance, I draw on quasi-experimental designs and other quantitative methods, combining administrative and survey data to answer these questions.
 
-Across projects, the throughline is a commitment to evidence-based governance: figuring out where fairness and efficiency truly conflict, where the conflict is only apparent, and how better policy design can serve both at once. Working with government agencies, I translate these findings into practical recommendations for fairer resource distribution and more accountable public institutions.
+My recent work examines whether <a href="https://doi.org/10.53106/1018189X202603001" target="_blank">equity-based admission reforms come at the cost of student achievement</a>; whether taxing wealthy universities leads them to raise tuition, adding to what students pay and narrowing their access; whether taxing properties at their true market value improves tax fairness at the expense of housing justice; whether <a href="https://doi.org/10.1177/00910260261444392" target="_blank">promoting minorities into leadership places hidden burdens on minority supervisors</a>; and how <a href="https://www.journals.uchicago.edu/doi/10.1086/742939" target="_blank">windfalls from lottery wins reshape family decisions such as marriage and childbearing</a>.
+
+Sorting out where equity and efficiency genuinely conflict, where the conflict is only apparent, and how policy can be designed to serve both at once is the throughline running through my research. Working with government agencies, I also translate these findings into practical recommendations for fairer resource distribution and more accountable public institutions.
 
 I earned a PhD in Public Affairs from the University of Missouri's <a href="https://truman.missouri.edu" target="_blank">Harry S Truman School of Government and Public Affairs</a> in 2025. I also hold an MPA (Master of Public Administration) from National Chengchi University (Taiwan, 2019) and a BA in Political Science from National Taiwan University (2015); before beginning graduate study, I worked in the Congress of Taiwan.
 
@@ -69,15 +71,19 @@ Contact: ytsai@nccu.edu.tw
 
 <div style="line-height:50%;"><br></div>
 
-我關注政府如何運用政策工具建構更公平、良善、宜居的社會。我的研究探討：這些政策必須付出什麼代價、誰承擔了成本，以及政策是否真正達成預期效果。作為一位橫跨公共經濟學、教育政策與公共行政領域的實證公共政策學者，我的研究具體深耕四個核心主題：(1) 教育與機會均等；(2) 租稅公平與居住正義；(3) 家庭如何因應財富與所得的突發變化；以及 (4) 政府內部的管理與治理。
+作為一位實證取向的公共政策學者，我的研究環繞著一組核心問題：當政府運用政策工具試圖建構更公平、良善、宜居的社會時，這些政策是否真正達成預期效果、必須付出什麼代價，以及誰最終承擔了成本？政策通常會寫明它想幫助誰、又想向誰課徵，但帳單往往落在別的地方，而且經常落在這項政策原本想保護的人身上。我的研究不只指認這樣的落差，也追問它為何發生，以及能否透過制度與政策設計加以調和。
 
 <div style="line-height:50%;"><br></div>
 
-我近期的研究包含：<a href="https://doi.org/10.53106/1018189X202603001" target="_blank">以公平為導向的入學改革改革是否犧牲了學生的學業成就</a>；房產稅實價課稅在追求租稅公平的同時是否犧牲了居住正義；<a href="https://doi.org/10.1177/00910260261444392" target="_blank">晉升少數群體至領導職位是否為少數群體主管帶來隱藏的負擔</a>；以及<a href="https://www.journals.uchicago.edu/doi/10.1086/742939" target="_blank">機會中獎帶來的意外之財如何改變婚姻與生育等家庭決策</a>。
+我在四個相互扣連的領域中追問這些問題：(1) 教育與機會均等；(2) 租稅公平與居住正義；(3) 家庭如何因應財富與所得的突發變化（這些行為反應正是決定政策成本最終由誰吸收的關鍵）；以及 (4) 政府內部的管理與治理。在循證治理的取徑下，我運用準實驗設計與其他量化研究方法，結合行政資料與調查資料來回答這些問題。
 
 <div style="line-height:50%;"><br></div>
 
-貫穿這些研究計畫的核心關懷是透過「循證治理」的取徑，釐清公平與效率何時衝突、何時又得以共榮，並探討公共政策能夠兼顧不同價值的機制。透過與政府機關合作，我將這些研究發現轉化為促進資源公平分配、提升公共機構問責的實務建議。
+我近期的研究包含：<a href="https://doi.org/10.53106/1018189X202603001" target="_blank">以公平為導向的入學改革是否犧牲了學生的學業成就</a>；當政府向富裕的大學課稅時是否促使他們提高學費最終增加學生就學成本與傷害其入學機會；房產稅實價課稅在追求租稅公平的同時是否犧牲了居住正義；<a href="https://doi.org/10.1177/00910260261444392" target="_blank">晉升少數群體至領導職位是否為少數群體主管帶來隱藏的負擔</a>；以及<a href="https://www.journals.uchicago.edu/doi/10.1086/742939" target="_blank">意外中獎帶來的財富如何改變婚姻與生育等家庭決策</a>。
+
+<div style="line-height:50%;"><br></div>
+
+釐清公平與效率何時真正衝突、何時衝突只是表象，以及公共政策如何被設計成兼顧兩者，是貫穿我研究的主線。透過與政府機關合作，我也將這些研究發現轉化為促進資源公平分配、提升公共機構問責的實務建議。
 
 <div style="line-height:50%;"><br></div>
 
