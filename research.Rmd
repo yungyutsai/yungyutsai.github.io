@@ -1,5 +1,5 @@
 ---
-pagetitle: Yung-Yu Tsai
+pagetitle: "Yung-Yu Tsai"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -85,7 +85,7 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu (2027). Does reducing ability tracking improve equity at the cost of student achievement? Evidence from Taiwan's high school admission reform. _Journal of Social Sciences and Philosophy 人文及社會科學集刊, forthcoming._ [<a href = "https://doi.org/10.53106/1018189X202603001" target="_blank">Journal Article</a>] <details> <summary><font size=2>Abstract</font size></summary>
+* Tsai, Yung-Yu (2027). Does reducing ability tracking improve equity at the cost of student achievement? Evidence from Taiwan's high school admission reform. _Journal of Social Sciences and Philosophy 人文及社會科學集刊, forthcoming._ [<a href = "https://doi.org/10.53106/1018189X202603001" target="_blank">Journal Article</a>] [<a href = "https://yungyutsai.github.io/detracking/index.html?lang=en" target="_blank">Plain Explainer</a>] <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This paper examines the trade-off between educational equity and student achievement by analyzing Taiwan's 2014 exam-free high school admission reform, which substantially reduced ability-based tracking. Using a difference-in-differences design comparing high school students exposed to the reform with unaffected middle school students, this paper finds that the reform increased within-school heterogeneity by 30 points (effect size = 0.86), evidence of a major weakening of ability-based sorting across schools. Consistent with the policy's equity objectives, low-performing students gained access to better schools, more qualified teachers, and higher-achieving peers. These equity gains, however, came at a clear cost: average performance declined by 50 points (0.18 standard deviations), with negative effects spread uniformly across the achievement distribution. A triple-difference design analysis yields consistent results. Overall, this study's findings reveal a pronounced equity-achievement trade-off, showing that detracking can expand educational opportunity while reducing overall academic performance. </font size></div>
 </details>
 
@@ -206,7 +206,10 @@ pagetitle: Yung-Yu Tsai
 
 <div style="line-height:50%;"><br></div>
 
-* Hsu, Hung-Yi \& Tsai, Yung-Yu. Transparency begins at home: Evidence from US federal agencies.
+* Hsu, Hung-Yi \& Tsai, Yung-Yu. Transparency begins at home: Linking internal transparency to reactive transparency outcomes.
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2>Transparency scholarship has developed a relatively solid understanding of how external, request-side factors shape reactive transparency outcomes, including whether, how quickly, and to what extent government grants an information request, yet internal, government-side factors remain largely unexplored. This study examines whether internal transparency, defined as the availability of information to internal actors within government, serves as an important internal attribute of government that conditions reactive transparency outcomes. Drawing on a unique panel dataset combining multiple U.S. federal agency data sources, consisting of 47 federal agencies over 13 years (2012–2024), we find consistent and robust evidence that higher internal transparency is associated with a higher FOIA case processing rate and shorter processing time. In addition, higher internal transparency is associated with a larger share of full-grant decisions and a smaller share of partial-grant/partial-denial decisions. These results suggest that making information accessible internally may be a promising new factor that further facilitates outward information disclosure, opening new avenues for transparency research.</font size></div>
+</details>
 
 <div style="line-height:50%;"><br></div>
 
