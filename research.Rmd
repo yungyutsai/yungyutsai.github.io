@@ -79,6 +79,13 @@ pagetitle: "Yung-Yu Tsai"
 ### Peer-reviewed Publications
 
 
+* Tsai, Yung-Yu. Who pays when the government taxes colleges? _Journal of Higher Education, Accepted (in-press)_
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a 1.4% excise tax on the net investment income of select nonprofit colleges. Affected colleges warned that the tax would force them to cut educational spending and reduce financial aid to students. Using a triple‐difference design that exploits the policy's dual eligibility thresholds and drawing on IPEDS and IRS Form 990 data from 2010 to 2022, this paper finds that taxed colleges did not cut spending or financial aid. Instead, they raised tuition to pass the tax burden onto students and their families. Institutional financial aid did not keep pace with tuition increases, resulting in higher net attendance costs. The policy is also associated with an increase in enrollment among Pell Grant recipients and a decline among students who rely on Federal Student Loans, suggesting that the tuition increase is partially subsidized by the federal government through grants, while middle‐income students who neither qualify for grants nor can self‐finance their education may face reduced access to these selective institutions. These findings highlight how institutional responses to government taxation can redistribute costs in ways that raise concerns about educational equity. </font size></div>
+</details>
+
+<div style="line-height:50%;"><br></div>
+
 * Hung, Wan-Ju \& Tsai, Yung-Yu. Linking government contracting programs for social goals to public employees' job satisfaction: Findings from the Federal Small Disadvantaged Business Contracting Program. _International Public Management Journal, Accepted (in-press)_ <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> While contracting out is often viewed as having negative consequences for public employees, less focus has been placed on understanding how it can also have positive outcomes for them. Recent scholarship proposes that contracting out may improve employees' work attitudes when it emphasizes pro-social factors. Using the U.S. federal small, disadvantaged business (SDB) contracting program—which emphasizes diversity and equity in procurement—as an example, this study examines the relationship between contracting programs aimed at promoting social outcomes and public employees' job satisfaction. Drawing insights from public administration research, we expect a positive relationship between the SDB contracting efforts and public employees' satisfaction. The U.S. federal government procurement data and the Federal Employee Viewpoint Survey (FEVS) were used for analysis. The results show that increased SDB contracting is associated with enhanced job satisfaction. In addition, employees of underrepresented backgrounds experience a more pronounced increase in satisfaction linked to SDB contracting initiatives. The implications of the findings for government contracting and public human resource management are discussed. </font size></div>
 </details>
@@ -152,13 +159,6 @@ pagetitle: "Yung-Yu Tsai"
 
 ### Working Papers
 
-* Tsai, Yung-Yu. Who pays when the government taxes colleges? _(Revision Request from Journal of Higher Education)_
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a 1.4% excise tax on the net investment income of select nonprofit colleges. Affected colleges warned that the tax would force them to cut educational spending and reduce financial aid to students. Using a triple‐difference design that exploits the policy's dual eligibility thresholds and drawing on IPEDS and IRS Form 990 data from 2010 to 2022, this paper finds that taxed colleges did not cut spending or financial aid. Instead, they raised tuition to pass the tax burden onto students and their families. Institutional financial aid did not keep pace with tuition increases, resulting in higher net attendance costs. The policy is also associated with an increase in enrollment among Pell Grant recipients and a decline among students who rely on Federal Student Loans, suggesting that the tuition increase is partially subsidized by the federal government through grants, while middle‐income students who neither qualify for grants nor can self‐finance their education may face reduced access to these selective institutions. These findings highlight how institutional responses to government taxation can redistribute costs in ways that raise concerns about educational equity. </font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
-
 * Tsai, Yung-Yu, Keiser, Lael, \& Jabbari, Niki. Understanding AI adoption in local government: Capacity constraints or political caution? _(Revision Request from American Review of Public Administration)_
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Artificial Intelligence (AI) has been widely adopted in government and public service but whether and to what extent governments adopt AI varies. A key question is whether variation in AI adoption across local governments stems from capacity constraints or political preferences. This matters for knowing which kinds of policies would be most successful in making sure that local governments have access to the technologies that they want and need. This paper combines data from the International City/County Management Association (ICMA) Survey, American Trends Panel (ATP), the Current Population Survey (CPS), and other public data sources to examine how capacity and political factors influence local government AI adoption in the United States. Using logistic and Poisson regression models, we find that citizens' attitudes toward AI, public employee unionization, local governments' financial capacity, and infrastructure support are all key determinants of AI adoption. Notably, political factors (citizens' attitudes and employees' resistance) are equally influential as capacity factors in explaining government AI adoption, and in some cases, more powerful. These findings suggest that variation in AI adoption across local governments results not only from capacity barriers but also from political preferences, highlighting the role of democratic processes in technology adoption decisions. </font size></div>
@@ -172,6 +172,13 @@ pagetitle: "Yung-Yu Tsai"
  </font size></div>
 </details>
 
+<div style="line-height:50%;"><br></div>
+
+* Tsai, Yung-Yu & Yang, Tzu-Ting. The effects of on-campus residence on academic and labor market outcomes: Evidence from dormitory assignment boundaries.
+<details> <summary><font size=2>Abstract</font size></summary>
+> <div style="line-height:100%;"><font size=2> This paper examines the causal effects of on-campus residence on students' academic and labor market outcomes, using Taiwan's dormitory assignment policy and a boundary-based regression discontinuity design. We find that on-campus residence does not affect undergraduate persistence. However, one additional semester of dormitory residence raises the probability of attending graduate school by 2.2 percentage points, partly by increasing on-campus employment during college. This graduate school effect is larger for students without siblings, from low-income families, and at higher-ranking colleges. In addition, on-campus residence has no immediate labor market effect, but raises employment five years after graduation by 1.3 percentage points. </font size></div>
+</details>
+
 ------
 
 <!-- ══════════════════════════════════════════════════════ -->
@@ -182,13 +189,6 @@ pagetitle: "Yung-Yu Tsai"
 * Tsai, Yung-Yu. The impact of property reassessment on housing prices---Trade-offs between tax fairness and housing equity.
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Property reassessments aim to align property's assessed values with market prices, serving as an essential tool to ensure tax fairness. However, reassessments can unintentionally impact housing values and, therefore, affect wealth distribution. Based on data from 19 Pennsylvania counties, this study examines property reassessment's impact on housing values. The paper explores two contrasting theories: the capitalization effect, which predicts reduced housing values in wealthy regions and increased prices in less developed areas, and the anchoring effect, anticipating more pronounced price increases in affluent regions and wider disparities in housing prices. Using a difference-in-differences approach and instrumental variable analysis, the study finds the anchoring effect dominates. On average, property reassessment raises housing values by 9\% in counties, with a pronounced positive effect in high-priced regions and a negative impact in non-affluent regions. This highlights that while reassessment enhances tax fairness, it also disproportionately benefits wealthier individuals and widens geographical disparity in housing prices, contradicting wealth equality goals. </font size></div>
-</details>
-
-<div style="line-height:50%;"><br></div>
-
-* Tsai, Yung-Yu & Yang, Tzu-Ting. The impact of on-campus residence on students' academic and labor market outcomes---Evidence from boundary discontinuity design.
-<details> <summary><font size=2>Abstract</font size></summary>
-> <div style="line-height:100%;"><font size=2> This study investigates the influence of residing in student dormitories on short and long-term student outcomes within the context of Taiwan. This research examines the causal effects of on-campus residency by utilizing colleges' dormitory assignment policy based on students' residential locations and employing a boundary-based regression discontinuity design. The study incorporates a two-way fixed effect model, including both college and village fixed effects, to account for potential geographical self-selection biases. The findings reveal that on-campus living doesn't significantly impact persistence, but it does enhance the likelihood of pursuing graduate education, primarily influenced by enrolling in the same college for undergraduate studies. This positive effect can be attributed to two intermediate outcomes: an increase in on-campus employment, indicative of greater on-campus engagement, and a higher likelihood of receiving awards from contests or competitions, suggesting increased participation in extracurricular activities. The impact is more pronounced among students from low-income families, those without siblings, and those attending more prestigious colleges. </font size></div>
 </details>
 
 <div style="line-height:50%;"><br></div>
