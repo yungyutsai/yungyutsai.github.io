@@ -79,7 +79,7 @@ pagetitle: "Yung-Yu Tsai"
 ### Peer-reviewed Publications
 
 
-* Tsai, Yung-Yu (2026). Who pays when the government taxes colleges? _Journal of Higher Education, forthcoming._ [<a href = "https://doi.org/10.1080/00221546.2026.2739118" target="_blank">Journal Article</a>] <details> <summary><font size=2>Abstract</font size></summary>
+* Tsai, Yung-Yu (2026). Who pays when the government taxes colleges? _Journal of Higher Education, forthcoming._ [<a href = "https://doi.org/10.1080/00221546.2026.2739118" target="_blank">Journal Article</a>] [<a href = "https://github.com/yungyutsai/endowment_tax/" target="_blank">Data and Codes</a>] <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> The 2017 Tax Cuts and Jobs Act introduced a 1.4% excise tax on the net investment income of select nonprofit colleges. Affected colleges warned that the tax would force them to cut educational spending and reduce financial aid to students. Using a triple‐difference design that exploits the policy's dual eligibility thresholds and drawing on IPEDS and IRS Form 990 data from 2010 to 2022, this paper finds that taxed colleges did not cut spending or financial aid. Instead, they raised tuition to pass the tax burden onto students and their families. Institutional financial aid did not keep pace with tuition increases, resulting in higher net attendance costs. The policy is also associated with an increase in enrollment among Pell Grant recipients and a decline among students who rely on Federal Student Loans, suggesting that the tuition increase is partially subsidized by the federal government through grants, while middle‐income students who neither qualify for grants nor can self‐finance their education may face reduced access to these selective institutions. These findings highlight how institutional responses to government taxation can redistribute costs in ways that raise concerns about educational equity. </font size></div>
 </details>
 
@@ -173,7 +173,7 @@ pagetitle: "Yung-Yu Tsai"
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu & Yang, Tzu-Ting. The effects of on-campus residence on academic and labor market outcomes: Evidence from dormitory assignment boundaries.
+* Tsai, Yung-Yu & Yang, Tzu-Ting. The effects of on-campus residence on academic and labor market outcomes: Evidence from dormitory assignment boundaries. _(Under Review)_
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This paper examines the causal effects of on-campus residence on students' academic and labor market outcomes, using Taiwan's dormitory assignment policy and a boundary-based regression discontinuity design. We find that on-campus residence does not affect undergraduate persistence. However, one additional semester of dormitory residence raises the probability of attending graduate school by 2.2 percentage points, partly by increasing on-campus employment during college. This graduate school effect is larger for students without siblings, from low-income families, and at higher-ranking colleges. In addition, on-campus residence has no immediate labor market effect, but raises employment five years after graduation by 1.3 percentage points. </font size></div>
 </details>
