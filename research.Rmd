@@ -165,7 +165,7 @@ pagetitle: "Yung-Yu Tsai"
 
 <div style="line-height:50%;"><br></div>
 
-* Hung, Wan-Ju \& Tsai, Yung-Yu. State actions and market governance: How administrative requirements shape competition in government contracting. _(Under Review)_
+* Hung, Wan-Ju \& Tsai, Yung-Yu. State actions and market governance: How administrative requirements shape competition in government contracting. _(Revision Request from Public Performance \& Management Review)_
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> Competition is central to government contracting. While public administration studies have examined how competition affects contracting outcomes, less attention has been paid to what explains competition in government markets. Transaction cost theory suggests that the characteristics of contracted work shape the level of competition and highlights managers' efforts to address noncompetitive markets. However, this perspective often treats competition as a market condition to be managed, rather than as an outcome that may be shaped by governments' own design choices. This study contributes to research on what shapes competition in contracting by focusing on the role of administrative requirements for bidding. Drawing on administrative burden research, which highlights that requirements can discourage initial participation and lead to applicant drop-off during the process, we expect bidding requirements to be associated with fewer bid submissions and fewer submissions that remain eligible for consideration. Using Poisson regressions to analyze 79,968 contracts and 184,550 bids from Taiwan's e-procurement system, we find evidence that stricter administrative requirements reduce competition, both in terms of participation and bid attrition. The findings contribute to contracting research by demonstrating that state actions are important for market governance and provide insights for enhancing market competition.
  </font size></div>
@@ -173,7 +173,7 @@ pagetitle: "Yung-Yu Tsai"
 
 <div style="line-height:50%;"><br></div>
 
-* Tsai, Yung-Yu & Yang, Tzu-Ting. The effects of on-campus residence on academic and labor market outcomes: Evidence from dormitory assignment boundaries. _(Under Review)_
+* Tsai, Yung-Yu & Yang, Tzu-Ting. The effects of on-campus residence on academic and labor market outcomes: Evidence from dormitory assignment boundaries.
 <details> <summary><font size=2>Abstract</font size></summary>
 > <div style="line-height:100%;"><font size=2> This paper examines the causal effects of on-campus residence on students' academic and labor market outcomes, using Taiwan's dormitory assignment policy and a boundary-based regression discontinuity design. We find that on-campus residence does not affect undergraduate persistence. However, one additional semester of dormitory residence raises the probability of attending graduate school by 2.2 percentage points, partly by increasing on-campus employment during college. This graduate school effect is larger for students without siblings, from low-income families, and at higher-ranking colleges. In addition, on-campus residence has no immediate labor market effect, but raises employment five years after graduation by 1.3 percentage points. </font size></div>
 </details>
